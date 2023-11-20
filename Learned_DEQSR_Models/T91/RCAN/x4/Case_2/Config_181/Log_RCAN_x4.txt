@@ -1,0 +1,2621 @@
+Device= cuda
+Making RCAN model...
+Loading model from ../Learned_RCAN_Models/RCAN_BIX4.pt
+conv_1 with SN 0.9825931938526898
+conv_2 with SN 0.9825931938526898
+conv_3 with SN 0.9825931938526898
+conv_4 with SN 0.9825931938526898
+conv_5 with SN 0.9825931938526898
+conv_6 with SN 0.9825931938526898
+skip= False
+Choosing Case 2
+f.alpha
+f.dncnn.dncnn.0.weight_orig
+f.dncnn.dncnn.2.weight_orig
+f.dncnn.dncnn.4.weight_orig
+f.dncnn.dncnn.6.weight_orig
+f.dncnn.dncnn.8.weight_orig
+f.dncnn.dncnn.10.weight_orig
+Loading Best Model File...
+Anderson took 35 iterations with Residual 9.52079998e-06
+Anderson took 99 iterations with Residual 1.47965265e-03
+Anderson took 34 iterations with Residual 9.88888003e-06
+Anderson took 99 iterations with Residual 1.21924348e-03
+Anderson took 34 iterations with Residual 9.53443455e-06
+Anderson took 99 iterations with Residual 1.68845324e-03
+Anderson took 38 iterations with Residual 9.48556237e-06
+Anderson took 99 iterations with Residual 1.97030098e-03
+Anderson took 36 iterations with Residual 9.64919968e-06
+Anderson took 99 iterations with Residual 1.84524320e-03
+Anderson took 34 iterations with Residual 9.65692002e-06
+Anderson took 99 iterations with Residual 1.93339037e-03
+Anderson took 34 iterations with Residual 9.57839464e-06
+Anderson took 99 iterations with Residual 1.41581669e-03
+Anderson took 36 iterations with Residual 9.60963236e-06
+Anderson took 99 iterations with Residual 2.01996773e-03
+Anderson took 118 iterations with Residual 9.82067382e-06
+Anderson took 99 iterations with Residual 1.79686818e-03
+Anderson took 44 iterations with Residual 9.99778392e-06
+Anderson took 99 iterations with Residual 1.93640350e-03
+Anderson took 87 iterations with Residual 9.98418482e-06
+Anderson took 99 iterations with Residual 1.66609920e-03
+Anderson took 43 iterations with Residual 9.92759540e-06
+Anderson took 99 iterations with Residual 1.60688662e-03
+Anderson took 40 iterations with Residual 9.62376457e-06
+Anderson took 99 iterations with Residual 1.52931081e-03
+Anderson took 38 iterations with Residual 9.82394891e-06
+Anderson took 99 iterations with Residual 1.86587169e-03
+Anderson took 41 iterations with Residual 9.95093910e-06
+Anderson took 99 iterations with Residual 1.52850324e-03
+Anderson took 100 iterations with Residual 9.95004284e-06
+Anderson took 99 iterations with Residual 1.65027793e-03
+Anderson took 40 iterations with Residual 9.67942965e-06
+Anderson took 99 iterations with Residual 1.68411673e-03
+Anderson took 38 iterations with Residual 9.80625136e-06
+Anderson took 99 iterations with Residual 1.63044230e-03
+Anderson took 40 iterations with Residual 9.64541034e-06
+Anderson took 99 iterations with Residual 1.61397258e-03
+Anderson took 36 iterations with Residual 9.96620263e-06
+Anderson took 99 iterations with Residual 1.61656467e-03
+Anderson took 41 iterations with Residual 9.86781219e-06
+Anderson took 99 iterations with Residual 1.57000076e-03
+Anderson took 40 iterations with Residual 9.90066867e-06
+Anderson took 99 iterations with Residual 1.47942384e-03
+Anderson took 41 iterations with Residual 9.94298459e-06
+Anderson took 99 iterations with Residual 1.51683121e-03
+Epoch: 0
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60347361e-03
+Anderson took 19 iterations with Residual 9.38504173e-06
+Anderson took 16 iterations with Residual 9.23712016e-06
+Anderson took 18 iterations with Residual 9.42978785e-06
+Anderson took 17 iterations with Residual 8.95901315e-06
+Anderson took 9 iterations with Residual 9.94011271e-06
+Pred PSNR on Full Image:                     32.6654 & SSIM:0.9095
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.61214812e-01
+
+
+Anderson took 39 iterations with Residual 9.54057705e-06
+Anderson took 99 iterations with Residual 1.67520474e-03
+Anderson took 42 iterations with Residual 9.91941653e-06
+Anderson took 99 iterations with Residual 1.22295367e-03
+Anderson took 199 iterations with Residual 2.07870657e-05
+Anderson took 99 iterations with Residual 1.31750342e-03
+Anderson took 80 iterations with Residual 9.87139166e-06
+Anderson took 99 iterations with Residual 1.44360190e-03
+Anderson took 39 iterations with Residual 9.66533739e-06
+Anderson took 99 iterations with Residual 1.28345826e-03
+Anderson took 35 iterations with Residual 9.72402842e-06
+Anderson took 99 iterations with Residual 1.36666098e-03
+Anderson took 38 iterations with Residual 9.74013636e-06
+Anderson took 99 iterations with Residual 1.34272101e-03
+Anderson took 38 iterations with Residual 9.76592282e-06
+Anderson took 99 iterations with Residual 1.53320874e-03
+Anderson took 38 iterations with Residual 9.83017184e-06
+Anderson took 99 iterations with Residual 1.58239719e-03
+Anderson took 40 iterations with Residual 9.55448434e-06
+Anderson took 99 iterations with Residual 1.44695591e-03
+Anderson took 42 iterations with Residual 9.76473898e-06
+Anderson took 99 iterations with Residual 1.78351583e-03
+Anderson took 41 iterations with Residual 9.67996268e-06
+Anderson took 99 iterations with Residual 1.75827864e-03
+Anderson took 39 iterations with Residual 9.88090040e-06
+Anderson took 99 iterations with Residual 1.57597907e-03
+Anderson took 40 iterations with Residual 9.70423596e-06
+Anderson took 99 iterations with Residual 1.50281150e-03
+Anderson took 46 iterations with Residual 9.98017019e-06
+Anderson took 99 iterations with Residual 1.77180835e-03
+Anderson took 155 iterations with Residual 9.87146811e-06
+Anderson took 99 iterations with Residual 1.62338475e-03
+Anderson took 39 iterations with Residual 9.99099824e-06
+Anderson took 99 iterations with Residual 1.53311307e-03
+Anderson took 38 iterations with Residual 9.91609102e-06
+Anderson took 99 iterations with Residual 1.41896519e-03
+Anderson took 38 iterations with Residual 9.84886874e-06
+Anderson took 99 iterations with Residual 1.54124965e-03
+Anderson took 39 iterations with Residual 9.98688620e-06
+Anderson took 99 iterations with Residual 1.33432204e-03
+Anderson took 149 iterations with Residual 9.97977354e-06
+Anderson took 99 iterations with Residual 1.37005958e-03
+Anderson took 39 iterations with Residual 9.92524480e-06
+Anderson took 99 iterations with Residual 1.50857406e-03
+Anderson took 37 iterations with Residual 9.53419811e-06
+Anderson took 99 iterations with Residual 1.38277627e-03
+Epoch: 1
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60526566e-03
+Anderson took 18 iterations with Residual 9.31263625e-06
+Anderson took 15 iterations with Residual 9.64652117e-06
+Anderson took 17 iterations with Residual 9.46604134e-06
+Anderson took 16 iterations with Residual 8.91394863e-06
+Anderson took 8 iterations with Residual 9.37508867e-06
+Pred PSNR on Full Image:                     32.6636 & SSIM:0.9094
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.60524952e-01
+
+
+Anderson took 38 iterations with Residual 9.85758646e-06
+Anderson took 99 iterations with Residual 1.30331233e-03
+Anderson took 39 iterations with Residual 9.60901629e-06
+Anderson took 99 iterations with Residual 1.72151737e-03
+Anderson took 38 iterations with Residual 9.70987873e-06
+Anderson took 99 iterations with Residual 1.67020649e-03
+Anderson took 39 iterations with Residual 9.54989715e-06
+Anderson took 99 iterations with Residual 1.65915777e-03
+Anderson took 37 iterations with Residual 9.94801992e-06
+Anderson took 99 iterations with Residual 1.59705357e-03
+Anderson took 39 iterations with Residual 9.59500208e-06
+Anderson took 99 iterations with Residual 1.54867561e-03
+Anderson took 38 iterations with Residual 9.87641323e-06
+Anderson took 99 iterations with Residual 1.74689031e-03
+Anderson took 38 iterations with Residual 9.49439888e-06
+Anderson took 99 iterations with Residual 1.64140320e-03
+Anderson took 39 iterations with Residual 9.83628967e-06
+Anderson took 99 iterations with Residual 1.57477363e-03
+Anderson took 38 iterations with Residual 9.61272612e-06
+Anderson took 99 iterations with Residual 1.49384687e-03
+Anderson took 199 iterations with Residual 1.66091804e-05
+Anderson took 99 iterations with Residual 1.52753097e-03
+Anderson took 55 iterations with Residual 9.90753100e-06
+Anderson took 99 iterations with Residual 1.55471386e-03
+Anderson took 47 iterations with Residual 9.95885157e-06
+Anderson took 99 iterations with Residual 1.50516298e-03
+Anderson took 44 iterations with Residual 9.83218165e-06
+Anderson took 99 iterations with Residual 1.49002620e-03
+Anderson took 43 iterations with Residual 9.89722752e-06
+Anderson took 99 iterations with Residual 1.31544075e-03
+Anderson took 44 iterations with Residual 9.99836174e-06
+Anderson took 99 iterations with Residual 1.48348067e-03
+Anderson took 53 iterations with Residual 9.98037299e-06
+Anderson took 99 iterations with Residual 1.31206999e-03
+Anderson took 152 iterations with Residual 9.92596127e-06
+Anderson took 99 iterations with Residual 1.42571721e-03
+Anderson took 41 iterations with Residual 9.56369319e-06
+Anderson took 99 iterations with Residual 1.37960071e-03
+Anderson took 40 iterations with Residual 9.65235345e-06
+Anderson took 99 iterations with Residual 1.62108008e-03
+Anderson took 37 iterations with Residual 9.72662516e-06
+Anderson took 99 iterations with Residual 1.65841013e-03
+Anderson took 38 iterations with Residual 9.61895853e-06
+Anderson took 99 iterations with Residual 1.58015423e-03
+Anderson took 40 iterations with Residual 9.49491138e-06
+Anderson took 99 iterations with Residual 1.62550480e-03
+Epoch: 2
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60909152e-03
+Anderson took 18 iterations with Residual 9.82951437e-06
+Anderson took 16 iterations with Residual 9.13886038e-06
+Anderson took 17 iterations with Residual 9.67157914e-06
+Anderson took 16 iterations with Residual 9.48807431e-06
+Anderson took 8 iterations with Residual 9.59271583e-06
+Pred PSNR on Full Image:                     32.6613 & SSIM:0.9094
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.69465172e-01
+
+
+Anderson took 38 iterations with Residual 9.96059976e-06
+Anderson took 99 iterations with Residual 1.87337189e-03
+Anderson took 40 iterations with Residual 9.82777237e-06
+Anderson took 99 iterations with Residual 1.52996152e-03
+Anderson took 156 iterations with Residual 9.95012772e-06
+Anderson took 99 iterations with Residual 1.41079459e-03
+Anderson took 39 iterations with Residual 9.93157907e-06
+Anderson took 99 iterations with Residual 1.76570856e-03
+Anderson took 36 iterations with Residual 9.77558161e-06
+Anderson took 99 iterations with Residual 1.56141307e-03
+Anderson took 39 iterations with Residual 9.65113986e-06
+Anderson took 99 iterations with Residual 1.48590690e-03
+Anderson took 38 iterations with Residual 9.74891129e-06
+Anderson took 99 iterations with Residual 1.56026697e-03
+Anderson took 134 iterations with Residual 9.99482046e-06
+Anderson took 99 iterations with Residual 1.58583305e-03
+Anderson took 37 iterations with Residual 9.52796437e-06
+Anderson took 99 iterations with Residual 1.61240777e-03
+Anderson took 40 iterations with Residual 9.95578978e-06
+Anderson took 99 iterations with Residual 1.44116276e-03
+Anderson took 36 iterations with Residual 9.71266912e-06
+Anderson took 99 iterations with Residual 1.36718361e-03
+Anderson took 38 iterations with Residual 9.51857076e-06
+Anderson took 99 iterations with Residual 1.51466299e-03
+Anderson took 41 iterations with Residual 9.55095489e-06
+Anderson took 99 iterations with Residual 1.47377015e-03
+Anderson took 39 iterations with Residual 9.56588731e-06
+Anderson took 99 iterations with Residual 1.49107762e-03
+Anderson took 41 iterations with Residual 9.53583690e-06
+Anderson took 99 iterations with Residual 1.45314281e-03
+Anderson took 45 iterations with Residual 9.76795795e-06
+Anderson took 99 iterations with Residual 1.53453296e-03
+Anderson took 177 iterations with Residual 9.87205632e-06
+Anderson took 99 iterations with Residual 1.55403621e-03
+Anderson took 47 iterations with Residual 9.84903653e-06
+Anderson took 99 iterations with Residual 1.59663630e-03
+Anderson took 40 iterations with Residual 9.98298795e-06
+Anderson took 99 iterations with Residual 1.27222273e-03
+Anderson took 39 iterations with Residual 9.60989827e-06
+Anderson took 99 iterations with Residual 1.37177193e-03
+Anderson took 39 iterations with Residual 9.72964201e-06
+Anderson took 99 iterations with Residual 1.70442525e-03
+Anderson took 42 iterations with Residual 9.94577943e-06
+Anderson took 99 iterations with Residual 1.72971764e-03
+Anderson took 125 iterations with Residual 9.97630186e-06
+Anderson took 99 iterations with Residual 1.89738664e-03
+Epoch: 3
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60228415e-03
+Anderson took 19 iterations with Residual 9.53870437e-06
+Anderson took 16 iterations with Residual 9.70060854e-06
+Anderson took 18 iterations with Residual 9.03999645e-06
+Anderson took 17 iterations with Residual 9.22823552e-06
+Anderson took 8 iterations with Residual 9.87468632e-06
+Pred PSNR on Full Image:                     32.6592 & SSIM:0.9094
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.61488752e-01
+
+
+Anderson took 44 iterations with Residual 9.63883409e-06
+Anderson took 99 iterations with Residual 1.64146530e-03
+Anderson took 41 iterations with Residual 9.54714997e-06
+Anderson took 99 iterations with Residual 1.54500010e-03
+Anderson took 42 iterations with Residual 9.61762223e-06
+Anderson took 99 iterations with Residual 1.64318165e-03
+Anderson took 42 iterations with Residual 9.66498427e-06
+Anderson took 99 iterations with Residual 1.48218584e-03
+Anderson took 48 iterations with Residual 9.83229835e-06
+Anderson took 99 iterations with Residual 1.41523958e-03
+Anderson took 72 iterations with Residual 9.95566552e-06
+Anderson took 99 iterations with Residual 1.70852867e-03
+Anderson took 43 iterations with Residual 9.92371367e-06
+Anderson took 99 iterations with Residual 1.31322723e-03
+Anderson took 41 iterations with Residual 9.96050699e-06
+Anderson took 99 iterations with Residual 1.47067462e-03
+Anderson took 41 iterations with Residual 9.91031006e-06
+Anderson took 99 iterations with Residual 1.36313422e-03
+Anderson took 140 iterations with Residual 9.84737574e-06
+Anderson took 99 iterations with Residual 1.61458518e-03
+Anderson took 43 iterations with Residual 9.90972792e-06
+Anderson took 99 iterations with Residual 1.68488183e-03
+Anderson took 39 iterations with Residual 9.75769960e-06
+Anderson took 99 iterations with Residual 1.42107676e-03
+Anderson took 38 iterations with Residual 9.60541048e-06
+Anderson took 99 iterations with Residual 1.59594327e-03
+Anderson took 37 iterations with Residual 9.96827321e-06
+Anderson took 99 iterations with Residual 1.42635197e-03
+Anderson took 40 iterations with Residual 9.55963511e-06
+Anderson took 99 iterations with Residual 1.59684366e-03
+Anderson took 39 iterations with Residual 9.57116875e-06
+Anderson took 99 iterations with Residual 1.36802847e-03
+Anderson took 37 iterations with Residual 9.54623155e-06
+Anderson took 99 iterations with Residual 1.61297124e-03
+Anderson took 40 iterations with Residual 9.54496554e-06
+Anderson took 99 iterations with Residual 1.66745500e-03
+Anderson took 41 iterations with Residual 9.77322211e-06
+Anderson took 99 iterations with Residual 1.41418585e-03
+Anderson took 43 iterations with Residual 9.71049781e-06
+Anderson took 99 iterations with Residual 1.65475119e-03
+Anderson took 46 iterations with Residual 9.92202360e-06
+Anderson took 99 iterations with Residual 1.77244918e-03
+Anderson took 199 iterations with Residual 1.00417545e-05
+Anderson took 99 iterations with Residual 1.41866150e-03
+Anderson took 47 iterations with Residual 9.95735467e-06
+Anderson took 99 iterations with Residual 1.74064959e-03
+Epoch: 4
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60418087e-03
+Anderson took 19 iterations with Residual 9.02811503e-06
+Anderson took 16 iterations with Residual 9.28361771e-06
+Anderson took 17 iterations with Residual 9.87598760e-06
+Anderson took 16 iterations with Residual 9.87603645e-06
+Anderson took 8 iterations with Residual 9.76874539e-06
+Pred PSNR on Full Image:                     32.6573 & SSIM:0.9094
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.61336750e-01
+
+
+Anderson took 53 iterations with Residual 9.90479000e-06
+Anderson took 99 iterations with Residual 1.44283635e-03
+Anderson took 199 iterations with Residual 1.25339950e-05
+Anderson took 99 iterations with Residual 1.63989292e-03
+Anderson took 45 iterations with Residual 9.88637933e-06
+Anderson took 99 iterations with Residual 1.70517848e-03
+Anderson took 41 iterations with Residual 9.91654162e-06
+Anderson took 99 iterations with Residual 1.72586133e-03
+Anderson took 39 iterations with Residual 9.94052172e-06
+Anderson took 99 iterations with Residual 1.64680647e-03
+Anderson took 39 iterations with Residual 9.93455577e-06
+Anderson took 99 iterations with Residual 1.47161101e-03
+Anderson took 40 iterations with Residual 9.67674670e-06
+Anderson took 99 iterations with Residual 1.59071374e-03
+Anderson took 45 iterations with Residual 9.77566125e-06
+Anderson took 99 iterations with Residual 1.33767272e-03
+Anderson took 55 iterations with Residual 9.93520429e-06
+Anderson took 99 iterations with Residual 1.70697087e-03
+Anderson took 47 iterations with Residual 9.93750032e-06
+Anderson took 99 iterations with Residual 1.66801531e-03
+Anderson took 78 iterations with Residual 9.94460759e-06
+Anderson took 99 iterations with Residual 1.81799746e-03
+Anderson took 50 iterations with Residual 9.98524609e-06
+Anderson took 99 iterations with Residual 1.49426763e-03
+Anderson took 145 iterations with Residual 9.96057428e-06
+Anderson took 99 iterations with Residual 1.87716597e-03
+Anderson took 41 iterations with Residual 9.59127960e-06
+Anderson took 99 iterations with Residual 1.43137297e-03
+Anderson took 39 iterations with Residual 9.71911737e-06
+Anderson took 99 iterations with Residual 1.61203102e-03
+Anderson took 38 iterations with Residual 9.92163116e-06
+Anderson took 99 iterations with Residual 1.45020940e-03
+Anderson took 119 iterations with Residual 9.85477384e-06
+Anderson took 99 iterations with Residual 1.55794056e-03
+Anderson took 40 iterations with Residual 9.84847418e-06
+Anderson took 99 iterations with Residual 1.66276608e-03
+Anderson took 41 iterations with Residual 9.75755207e-06
+Anderson took 99 iterations with Residual 1.71240231e-03
+Anderson took 43 iterations with Residual 9.91070803e-06
+Anderson took 99 iterations with Residual 1.59125378e-03
+Anderson took 171 iterations with Residual 9.95995728e-06
+Anderson took 99 iterations with Residual 1.46906379e-03
+Anderson took 43 iterations with Residual 9.68645091e-06
+Anderson took 99 iterations with Residual 1.54491475e-03
+Anderson took 38 iterations with Residual 9.47266409e-06
+Anderson took 99 iterations with Residual 1.34975783e-03
+Epoch: 5
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60558921e-03
+Anderson took 18 iterations with Residual 9.22765610e-06
+Anderson took 15 iterations with Residual 9.72487081e-06
+Anderson took 16 iterations with Residual 9.85857850e-06
+Anderson took 16 iterations with Residual 9.14450136e-06
+Anderson took 8 iterations with Residual 9.38573454e-06
+Pred PSNR on Full Image:                     32.6563 & SSIM:0.9094
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.52548316e-01
+
+
+Anderson took 38 iterations with Residual 9.49874384e-06
+Anderson took 99 iterations with Residual 1.48335279e-03
+Anderson took 39 iterations with Residual 9.53764027e-06
+Anderson took 99 iterations with Residual 1.42911498e-03
+Anderson took 39 iterations with Residual 9.86182317e-06
+Anderson took 99 iterations with Residual 1.22376900e-03
+Anderson took 39 iterations with Residual 9.77996651e-06
+Anderson took 99 iterations with Residual 1.35828878e-03
+Anderson took 119 iterations with Residual 9.81876847e-06
+Anderson took 99 iterations with Residual 1.28574454e-03
+Anderson took 40 iterations with Residual 9.68890658e-06
+Anderson took 99 iterations with Residual 1.61409499e-03
+Anderson took 39 iterations with Residual 9.72981618e-06
+Anderson took 99 iterations with Residual 1.28404802e-03
+Anderson took 122 iterations with Residual 9.72794055e-06
+Anderson took 99 iterations with Residual 1.46915298e-03
+Anderson took 43 iterations with Residual 9.86901930e-06
+Anderson took 99 iterations with Residual 1.58232253e-03
+Anderson took 41 iterations with Residual 9.72781208e-06
+Anderson took 99 iterations with Residual 1.51126752e-03
+Anderson took 41 iterations with Residual 9.65562928e-06
+Anderson took 99 iterations with Residual 1.48093580e-03
+Anderson took 43 iterations with Residual 9.84008310e-06
+Anderson took 99 iterations with Residual 1.48156677e-03
+Anderson took 46 iterations with Residual 9.80390561e-06
+Anderson took 99 iterations with Residual 1.58098906e-03
+Anderson took 122 iterations with Residual 9.93104490e-06
+Anderson took 99 iterations with Residual 1.32320754e-03
+Anderson took 43 iterations with Residual 9.68675486e-06
+Anderson took 99 iterations with Residual 1.67789921e-03
+Anderson took 40 iterations with Residual 9.82844670e-06
+Anderson took 99 iterations with Residual 1.47079760e-03
+Anderson took 45 iterations with Residual 9.99707409e-06
+Anderson took 99 iterations with Residual 1.70367635e-03
+Anderson took 110 iterations with Residual 9.99000404e-06
+Anderson took 99 iterations with Residual 1.57103928e-03
+Anderson took 41 iterations with Residual 9.95984700e-06
+Anderson took 99 iterations with Residual 1.96296695e-03
+Anderson took 39 iterations with Residual 9.93368754e-06
+Anderson took 99 iterations with Residual 2.05256690e-03
+Anderson took 40 iterations with Residual 9.68427824e-06
+Anderson took 99 iterations with Residual 2.16681768e-03
+Anderson took 40 iterations with Residual 9.75617030e-06
+Anderson took 99 iterations with Residual 1.61683610e-03
+Anderson took 43 iterations with Residual 9.74202104e-06
+Anderson took 99 iterations with Residual 1.84193824e-03
+Epoch: 6
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60058597e-03
+Anderson took 19 iterations with Residual 9.33123396e-06
+Anderson took 16 iterations with Residual 9.57456791e-06
+Anderson took 17 iterations with Residual 9.59941872e-06
+Anderson took 17 iterations with Residual 9.30634983e-06
+Anderson took 8 iterations with Residual 9.89900994e-06
+Pred PSNR on Full Image:                     32.6545 & SSIM:0.9094
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.62274930e-01
+
+
+Anderson took 63 iterations with Residual 9.97637895e-06
+Anderson took 99 iterations with Residual 1.79340257e-03
+Anderson took 43 iterations with Residual 9.76510252e-06
+Anderson took 99 iterations with Residual 1.67299451e-03
+Anderson took 40 iterations with Residual 9.97774047e-06
+Anderson took 99 iterations with Residual 1.63770732e-03
+Anderson took 38 iterations with Residual 9.93007675e-06
+Anderson took 99 iterations with Residual 1.23949938e-03
+Anderson took 38 iterations with Residual 9.65066507e-06
+Anderson took 99 iterations with Residual 1.36984383e-03
+Anderson took 40 iterations with Residual 9.73045379e-06
+Anderson took 99 iterations with Residual 1.54200606e-03
+Anderson took 38 iterations with Residual 9.96962490e-06
+Anderson took 99 iterations with Residual 1.45500863e-03
+Anderson took 41 iterations with Residual 9.88920168e-06
+Anderson took 99 iterations with Residual 1.38119846e-03
+Anderson took 113 iterations with Residual 9.97201655e-06
+Anderson took 99 iterations with Residual 1.53650656e-03
+Anderson took 42 iterations with Residual 9.52283771e-06
+Anderson took 99 iterations with Residual 1.56053903e-03
+Anderson took 40 iterations with Residual 9.71319207e-06
+Anderson took 99 iterations with Residual 1.32612828e-03
+Anderson took 40 iterations with Residual 9.62047291e-06
+Anderson took 99 iterations with Residual 1.37583608e-03
+Anderson took 40 iterations with Residual 9.71565937e-06
+Anderson took 99 iterations with Residual 1.66571184e-03
+Anderson took 39 iterations with Residual 9.64517688e-06
+Anderson took 99 iterations with Residual 1.79380535e-03
+Anderson took 42 iterations with Residual 9.78039185e-06
+Anderson took 99 iterations with Residual 1.94896107e-03
+Anderson took 199 iterations with Residual 2.25104742e-05
+Anderson took 99 iterations with Residual 1.65977698e-03
+Anderson took 77 iterations with Residual 9.92282281e-06
+Anderson took 99 iterations with Residual 1.53016245e-03
+Anderson took 41 iterations with Residual 9.93064588e-06
+Anderson took 99 iterations with Residual 1.70484226e-03
+Anderson took 43 iterations with Residual 9.66632577e-06
+Anderson took 99 iterations with Residual 1.81892676e-03
+Anderson took 42 iterations with Residual 9.95671485e-06
+Anderson took 99 iterations with Residual 1.74299071e-03
+Anderson took 41 iterations with Residual 9.84421352e-06
+Anderson took 99 iterations with Residual 1.56661688e-03
+Anderson took 44 iterations with Residual 9.58544791e-06
+Anderson took 99 iterations with Residual 2.03832051e-03
+Anderson took 39 iterations with Residual 9.78768158e-06
+Anderson took 99 iterations with Residual 1.26581129e-03
+Epoch: 7
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60204436e-03
+Anderson took 18 iterations with Residual 9.47199531e-06
+Anderson took 15 iterations with Residual 9.83759487e-06
+Anderson took 17 iterations with Residual 8.97425574e-06
+Anderson took 16 iterations with Residual 9.61990896e-06
+Anderson took 8 iterations with Residual 9.64740629e-06
+Pred PSNR on Full Image:                     32.6533 & SSIM:0.9094
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.55261050e-01
+
+
+Anderson took 39 iterations with Residual 9.52917208e-06
+Anderson took 99 iterations with Residual 1.85563512e-03
+Anderson took 38 iterations with Residual 9.85438480e-06
+Anderson took 99 iterations with Residual 1.35984837e-03
+Anderson took 42 iterations with Residual 9.81670031e-06
+Anderson took 99 iterations with Residual 1.58692565e-03
+Anderson took 199 iterations with Residual 1.58854860e-05
+Anderson took 99 iterations with Residual 1.80748410e-03
+Anderson took 70 iterations with Residual 9.92770818e-06
+Anderson took 99 iterations with Residual 1.59279081e-03
+Anderson took 43 iterations with Residual 9.89475886e-06
+Anderson took 99 iterations with Residual 1.92038025e-03
+Anderson took 40 iterations with Residual 9.78645522e-06
+Anderson took 99 iterations with Residual 1.47939685e-03
+Anderson took 67 iterations with Residual 9.98830832e-06
+Anderson took 99 iterations with Residual 1.49016619e-03
+Anderson took 46 iterations with Residual 9.80373965e-06
+Anderson took 99 iterations with Residual 1.66106937e-03
+Anderson took 41 iterations with Residual 9.73530598e-06
+Anderson took 99 iterations with Residual 1.69387817e-03
+Anderson took 38 iterations with Residual 9.85617909e-06
+Anderson took 99 iterations with Residual 1.55463105e-03
+Anderson took 39 iterations with Residual 9.86531994e-06
+Anderson took 99 iterations with Residual 1.48066567e-03
+Anderson took 46 iterations with Residual 9.69338322e-06
+Anderson took 99 iterations with Residual 2.11421014e-03
+Anderson took 42 iterations with Residual 9.70010761e-06
+Anderson took 99 iterations with Residual 1.85580710e-03
+Anderson took 39 iterations with Residual 9.55911220e-06
+Anderson took 99 iterations with Residual 1.71191178e-03
+Anderson took 38 iterations with Residual 9.96556786e-06
+Anderson took 99 iterations with Residual 1.68391733e-03
+Anderson took 132 iterations with Residual 9.99832095e-06
+Anderson took 99 iterations with Residual 1.79167113e-03
+Anderson took 151 iterations with Residual 9.97165144e-06
+Anderson took 99 iterations with Residual 1.54522254e-03
+Anderson took 44 iterations with Residual 9.62398799e-06
+Anderson took 99 iterations with Residual 1.59183873e-03
+Anderson took 126 iterations with Residual 9.86029513e-06
+Anderson took 99 iterations with Residual 1.54709831e-03
+Anderson took 40 iterations with Residual 9.65475265e-06
+Anderson took 99 iterations with Residual 1.94441941e-03
+Anderson took 39 iterations with Residual 9.98342361e-06
+Anderson took 99 iterations with Residual 1.41895543e-03
+Anderson took 39 iterations with Residual 9.62300692e-06
+Anderson took 99 iterations with Residual 1.40023123e-03
+Epoch: 8
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60485616e-03
+Anderson took 18 iterations with Residual 9.74571967e-06
+Anderson took 16 iterations with Residual 8.95514104e-06
+Anderson took 17 iterations with Residual 9.05041259e-06
+Anderson took 17 iterations with Residual 8.93959847e-06
+Anderson took 8 iterations with Residual 9.73279109e-06
+Pred PSNR on Full Image:                     32.6515 & SSIM:0.9093
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.53526263e-01
+
+
+Anderson took 40 iterations with Residual 9.98984810e-06
+Anderson took 99 iterations with Residual 1.77245706e-03
+Anderson took 39 iterations with Residual 9.71620100e-06
+Anderson took 99 iterations with Residual 1.83460148e-03
+Anderson took 38 iterations with Residual 9.82620175e-06
+Anderson took 99 iterations with Residual 1.66608240e-03
+Anderson took 40 iterations with Residual 9.99707767e-06
+Anderson took 99 iterations with Residual 1.79126138e-03
+Anderson took 40 iterations with Residual 9.74309511e-06
+Anderson took 99 iterations with Residual 1.58295114e-03
+Anderson took 44 iterations with Residual 9.89420697e-06
+Anderson took 99 iterations with Residual 1.56139708e-03
+Anderson took 140 iterations with Residual 9.98097152e-06
+Anderson took 99 iterations with Residual 1.59988934e-03
+Anderson took 47 iterations with Residual 9.96677057e-06
+Anderson took 99 iterations with Residual 1.51083264e-03
+Anderson took 43 iterations with Residual 9.99041758e-06
+Anderson took 99 iterations with Residual 1.49178933e-03
+Anderson took 45 iterations with Residual 9.91885176e-06
+Anderson took 99 iterations with Residual 1.58592093e-03
+Anderson took 52 iterations with Residual 9.97780902e-06
+Anderson took 99 iterations with Residual 1.35976143e-03
+Anderson took 46 iterations with Residual 9.98856329e-06
+Anderson took 99 iterations with Residual 1.82719886e-03
+Anderson took 41 iterations with Residual 9.52858582e-06
+Anderson took 99 iterations with Residual 1.43326489e-03
+Anderson took 38 iterations with Residual 9.87599668e-06
+Anderson took 99 iterations with Residual 1.07313113e-03
+Anderson took 42 iterations with Residual 9.60661913e-06
+Anderson took 99 iterations with Residual 1.53566388e-03
+Anderson took 154 iterations with Residual 9.90480292e-06
+Anderson took 99 iterations with Residual 1.50661462e-03
+Anderson took 47 iterations with Residual 9.82479047e-06
+Anderson took 99 iterations with Residual 1.72824495e-03
+Anderson took 43 iterations with Residual 9.68513468e-06
+Anderson took 99 iterations with Residual 1.72746518e-03
+Anderson took 41 iterations with Residual 9.55542448e-06
+Anderson took 99 iterations with Residual 1.45553338e-03
+Anderson took 41 iterations with Residual 9.76475283e-06
+Anderson took 99 iterations with Residual 1.40667038e-03
+Anderson took 40 iterations with Residual 9.82353848e-06
+Anderson took 99 iterations with Residual 1.19119193e-03
+Anderson took 39 iterations with Residual 9.65896092e-06
+Anderson took 99 iterations with Residual 1.47377126e-03
+Anderson took 39 iterations with Residual 9.81867328e-06
+Anderson took 99 iterations with Residual 1.48375705e-03
+Epoch: 9
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60097605e-03
+Anderson took 19 iterations with Residual 9.83270105e-06
+Anderson took 16 iterations with Residual 9.86432747e-06
+Anderson took 17 iterations with Residual 9.88700047e-06
+Anderson took 18 iterations with Residual 9.11463845e-06
+Anderson took 9 iterations with Residual 9.94361980e-06
+Pred PSNR on Full Image:                     32.6494 & SSIM:0.9093
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.49012022e-01
+
+
+Anderson took 42 iterations with Residual 9.52129622e-06
+Anderson took 99 iterations with Residual 1.63043678e-03
+Anderson took 41 iterations with Residual 9.73279858e-06
+Anderson took 99 iterations with Residual 1.26832287e-03
+Anderson took 45 iterations with Residual 9.83456900e-06
+Anderson took 99 iterations with Residual 1.79058816e-03
+Anderson took 199 iterations with Residual 2.12704515e-05
+Anderson took 99 iterations with Residual 1.77802994e-03
+Anderson took 125 iterations with Residual 9.89107063e-06
+Anderson took 99 iterations with Residual 1.34039228e-03
+Anderson took 42 iterations with Residual 9.97228839e-06
+Anderson took 99 iterations with Residual 1.52787722e-03
+Anderson took 41 iterations with Residual 9.70949778e-06
+Anderson took 99 iterations with Residual 1.74290019e-03
+Anderson took 38 iterations with Residual 9.92667914e-06
+Anderson took 99 iterations with Residual 1.61414036e-03
+Anderson took 37 iterations with Residual 9.92331281e-06
+Anderson took 99 iterations with Residual 2.23010806e-03
+Anderson took 36 iterations with Residual 9.92281340e-06
+Anderson took 99 iterations with Residual 1.72141795e-03
+Anderson took 39 iterations with Residual 9.57209674e-06
+Anderson took 99 iterations with Residual 1.83129869e-03
+Anderson took 41 iterations with Residual 9.76818345e-06
+Anderson took 99 iterations with Residual 1.78805853e-03
+Anderson took 44 iterations with Residual 9.81415455e-06
+Anderson took 99 iterations with Residual 1.99330316e-03
+Anderson took 199 iterations with Residual 1.53645252e-05
+Anderson took 99 iterations with Residual 1.74142322e-03
+Anderson took 50 iterations with Residual 9.79669772e-06
+Anderson took 99 iterations with Residual 1.65869001e-03
+Anderson took 41 iterations with Residual 9.74502869e-06
+Anderson took 99 iterations with Residual 1.85162475e-03
+Anderson took 41 iterations with Residual 9.81335803e-06
+Anderson took 99 iterations with Residual 1.40054348e-03
+Anderson took 40 iterations with Residual 9.54963684e-06
+Anderson took 99 iterations with Residual 1.40936052e-03
+Anderson took 38 iterations with Residual 9.94158982e-06
+Anderson took 99 iterations with Residual 1.66325985e-03
+Anderson took 40 iterations with Residual 9.73089164e-06
+Anderson took 99 iterations with Residual 1.37931324e-03
+Anderson took 46 iterations with Residual 9.77757931e-06
+Anderson took 99 iterations with Residual 1.76109372e-03
+Anderson took 41 iterations with Residual 9.62313364e-06
+Anderson took 99 iterations with Residual 1.28797913e-03
+Anderson took 42 iterations with Residual 9.60409955e-06
+Anderson took 99 iterations with Residual 1.70903508e-03
+Epoch: 10
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.59913389e-03
+Anderson took 19 iterations with Residual 9.29272814e-06
+Anderson took 16 iterations with Residual 9.33783004e-06
+Anderson took 17 iterations with Residual 9.99200890e-06
+Anderson took 17 iterations with Residual 9.47649652e-06
+Anderson took 8 iterations with Residual 9.95138964e-06
+Pred PSNR on Full Image:                     32.6479 & SSIM:0.9093
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.47890061e-01
+
+
+Anderson took 40 iterations with Residual 9.91453878e-06
+Anderson took 99 iterations with Residual 1.32667380e-03
+Anderson took 199 iterations with Residual 1.37847166e-05
+Anderson took 99 iterations with Residual 1.56824159e-03
+Anderson took 42 iterations with Residual 9.99629663e-06
+Anderson took 99 iterations with Residual 1.61315152e-03
+Anderson took 39 iterations with Residual 9.70762413e-06
+Anderson took 99 iterations with Residual 1.37333768e-03
+Anderson took 39 iterations with Residual 9.82889081e-06
+Anderson took 99 iterations with Residual 1.67426732e-03
+Anderson took 39 iterations with Residual 9.94402458e-06
+Anderson took 99 iterations with Residual 1.53079217e-03
+Anderson took 38 iterations with Residual 9.58728131e-06
+Anderson took 99 iterations with Residual 1.54053194e-03
+Anderson took 40 iterations with Residual 9.80618605e-06
+Anderson took 99 iterations with Residual 1.70126145e-03
+Anderson took 40 iterations with Residual 9.70036342e-06
+Anderson took 99 iterations with Residual 1.50826110e-03
+Anderson took 38 iterations with Residual 9.84520847e-06
+Anderson took 99 iterations with Residual 1.98636054e-03
+Anderson took 42 iterations with Residual 9.78078233e-06
+Anderson took 99 iterations with Residual 2.11321223e-03
+Anderson took 199 iterations with Residual 2.17456469e-05
+Anderson took 99 iterations with Residual 1.93535660e-03
+Anderson took 41 iterations with Residual 9.91668630e-06
+Anderson took 99 iterations with Residual 1.63922244e-03
+Anderson took 38 iterations with Residual 9.72383755e-06
+Anderson took 99 iterations with Residual 1.60774908e-03
+Anderson took 41 iterations with Residual 9.72128083e-06
+Anderson took 99 iterations with Residual 1.66720486e-03
+Anderson took 41 iterations with Residual 9.54577385e-06
+Anderson took 99 iterations with Residual 1.54719436e-03
+Anderson took 49 iterations with Residual 9.82487445e-06
+Anderson took 99 iterations with Residual 2.26408983e-03
+Anderson took 50 iterations with Residual 9.86971038e-06
+Anderson took 99 iterations with Residual 1.68231200e-03
+Anderson took 46 iterations with Residual 9.90058581e-06
+Anderson took 99 iterations with Residual 1.67911600e-03
+Anderson took 44 iterations with Residual 9.80500408e-06
+Anderson took 99 iterations with Residual 1.77454264e-03
+Anderson took 49 iterations with Residual 9.78164695e-06
+Anderson took 99 iterations with Residual 1.98651276e-03
+Anderson took 180 iterations with Residual 9.97871824e-06
+Anderson took 99 iterations with Residual 1.64476347e-03
+Anderson took 47 iterations with Residual 9.75920180e-06
+Anderson took 99 iterations with Residual 1.97557255e-03
+Epoch: 11
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60330309e-03
+Anderson took 18 iterations with Residual 9.70910087e-06
+Anderson took 16 iterations with Residual 8.88476244e-06
+Anderson took 17 iterations with Residual 9.02815973e-06
+Anderson took 17 iterations with Residual 9.01059867e-06
+Anderson took 8 iterations with Residual 9.70710429e-06
+Pred PSNR on Full Image:                     32.6481 & SSIM:0.9093
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.57571338e-01
+
+
+Anderson took 41 iterations with Residual 9.79115882e-06
+Anderson took 99 iterations with Residual 1.60982438e-03
+Anderson took 45 iterations with Residual 9.54550071e-06
+Anderson took 99 iterations with Residual 1.88848334e-03
+Anderson took 39 iterations with Residual 9.65155880e-06
+Anderson took 99 iterations with Residual 1.41539683e-03
+Anderson took 39 iterations with Residual 9.60585729e-06
+Anderson took 99 iterations with Residual 1.61375732e-03
+Anderson took 41 iterations with Residual 9.58631813e-06
+Anderson took 99 iterations with Residual 1.79572035e-03
+Anderson took 40 iterations with Residual 9.62700341e-06
+Anderson took 99 iterations with Residual 1.60927492e-03
+Anderson took 42 iterations with Residual 9.82106665e-06
+Anderson took 99 iterations with Residual 1.50602810e-03
+Anderson took 45 iterations with Residual 9.88243206e-06
+Anderson took 99 iterations with Residual 1.72286145e-03
+Anderson took 199 iterations with Residual 2.30628381e-05
+Anderson took 99 iterations with Residual 9.66767759e-04
+Anderson took 79 iterations with Residual 9.96094592e-06
+Anderson took 99 iterations with Residual 1.27578801e-03
+Anderson took 43 iterations with Residual 9.82908569e-06
+Anderson took 99 iterations with Residual 1.48176123e-03
+Anderson took 39 iterations with Residual 9.54648861e-06
+Anderson took 99 iterations with Residual 1.72559888e-03
+Anderson took 38 iterations with Residual 9.81387093e-06
+Anderson took 99 iterations with Residual 1.76369429e-03
+Anderson took 39 iterations with Residual 9.94928219e-06
+Anderson took 99 iterations with Residual 1.19483615e-03
+Anderson took 40 iterations with Residual 9.79767209e-06
+Anderson took 99 iterations with Residual 1.99973348e-03
+Anderson took 120 iterations with Residual 9.83227779e-06
+Anderson took 99 iterations with Residual 1.71357790e-03
+Anderson took 41 iterations with Residual 9.53516597e-06
+Anderson took 99 iterations with Residual 1.54658818e-03
+Anderson took 40 iterations with Residual 9.77063334e-06
+Anderson took 99 iterations with Residual 2.09889899e-03
+Anderson took 37 iterations with Residual 9.90418957e-06
+Anderson took 99 iterations with Residual 1.75876853e-03
+Anderson took 39 iterations with Residual 9.63505606e-06
+Anderson took 99 iterations with Residual 1.74978287e-03
+Anderson took 40 iterations with Residual 9.64927504e-06
+Anderson took 99 iterations with Residual 1.83877345e-03
+Anderson took 41 iterations with Residual 9.68583433e-06
+Anderson took 99 iterations with Residual 1.71449834e-03
+Anderson took 48 iterations with Residual 9.98039133e-06
+Anderson took 99 iterations with Residual 1.93983532e-03
+Epoch: 12
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60120912e-03
+Anderson took 19 iterations with Residual 9.05997616e-06
+Anderson took 16 iterations with Residual 9.17121962e-06
+Anderson took 17 iterations with Residual 9.19427486e-06
+Anderson took 17 iterations with Residual 9.59952840e-06
+Anderson took 8 iterations with Residual 9.95356178e-06
+Pred PSNR on Full Image:                     32.6464 & SSIM:0.9093
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.50599459e-01
+
+
+Anderson took 78 iterations with Residual 9.88778881e-06
+Anderson took 99 iterations with Residual 1.85180927e-03
+Anderson took 43 iterations with Residual 9.73184468e-06
+Anderson took 99 iterations with Residual 1.34486328e-03
+Anderson took 41 iterations with Residual 9.90127112e-06
+Anderson took 99 iterations with Residual 1.40633472e-03
+Anderson took 40 iterations with Residual 9.95683870e-06
+Anderson took 99 iterations with Residual 1.33177954e-03
+Anderson took 44 iterations with Residual 9.81300045e-06
+Anderson took 99 iterations with Residual 1.19440227e-03
+Anderson took 94 iterations with Residual 9.88338883e-06
+Anderson took 99 iterations with Residual 1.23191395e-03
+Anderson took 44 iterations with Residual 9.89754387e-06
+Anderson took 99 iterations with Residual 1.45880631e-03
+Anderson took 43 iterations with Residual 9.74872206e-06
+Anderson took 99 iterations with Residual 1.36776444e-03
+Anderson took 62 iterations with Residual 9.92027748e-06
+Anderson took 99 iterations with Residual 1.87374401e-03
+Anderson took 45 iterations with Residual 9.72001944e-06
+Anderson took 99 iterations with Residual 1.99044265e-03
+Anderson took 142 iterations with Residual 9.99163293e-06
+Anderson took 99 iterations with Residual 1.68363283e-03
+Anderson took 148 iterations with Residual 9.83406469e-06
+Anderson took 99 iterations with Residual 2.13651048e-03
+Anderson took 42 iterations with Residual 9.60467453e-06
+Anderson took 99 iterations with Residual 1.97293394e-03
+Anderson took 41 iterations with Residual 9.71580591e-06
+Anderson took 99 iterations with Residual 1.92100874e-03
+Anderson took 41 iterations with Residual 9.88100404e-06
+Anderson took 99 iterations with Residual 2.26451467e-03
+Anderson took 49 iterations with Residual 9.94589910e-06
+Anderson took 99 iterations with Residual 1.85805848e-03
+Anderson took 54 iterations with Residual 9.91238485e-06
+Anderson took 99 iterations with Residual 2.01741370e-03
+Anderson took 42 iterations with Residual 9.91859826e-06
+Anderson took 99 iterations with Residual 1.91845094e-03
+Anderson took 40 iterations with Residual 9.96850584e-06
+Anderson took 99 iterations with Residual 1.99385087e-03
+Anderson took 39 iterations with Residual 9.78212696e-06
+Anderson took 99 iterations with Residual 1.67407798e-03
+Anderson took 41 iterations with Residual 9.94239025e-06
+Anderson took 99 iterations with Residual 1.70737184e-03
+Anderson took 41 iterations with Residual 9.73100407e-06
+Anderson took 99 iterations with Residual 1.29675191e-03
+Anderson took 52 iterations with Residual 9.97919210e-06
+Anderson took 99 iterations with Residual 1.26434604e-03
+Epoch: 13
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.59885345e-03
+Anderson took 19 iterations with Residual 9.21757928e-06
+Anderson took 16 iterations with Residual 9.30938562e-06
+Anderson took 17 iterations with Residual 9.56418815e-06
+Anderson took 17 iterations with Residual 9.92139036e-06
+Anderson took 9 iterations with Residual 9.78839807e-06
+Pred PSNR on Full Image:                     32.6445 & SSIM:0.9093
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.41588952e-01
+
+
+Anderson took 199 iterations with Residual 1.08725367e-05
+Anderson took 99 iterations with Residual 1.28430604e-03
+Anderson took 98 iterations with Residual 9.99296233e-06
+Anderson took 99 iterations with Residual 1.31198200e-03
+Anderson took 168 iterations with Residual 9.98264067e-06
+Anderson took 99 iterations with Residual 1.51704684e-03
+Anderson took 44 iterations with Residual 9.79017810e-06
+Anderson took 99 iterations with Residual 1.32557918e-03
+Anderson took 42 iterations with Residual 9.57917473e-06
+Anderson took 99 iterations with Residual 1.20112637e-03
+Anderson took 42 iterations with Residual 9.80497158e-06
+Anderson took 99 iterations with Residual 1.94791596e-03
+Anderson took 43 iterations with Residual 9.65284635e-06
+Anderson took 99 iterations with Residual 1.75067356e-03
+Anderson took 139 iterations with Residual 9.93607377e-06
+Anderson took 99 iterations with Residual 2.03073041e-03
+Anderson took 48 iterations with Residual 9.84745493e-06
+Anderson took 99 iterations with Residual 1.91575379e-03
+Anderson took 41 iterations with Residual 9.81778635e-06
+Anderson took 99 iterations with Residual 1.77534454e-03
+Anderson took 41 iterations with Residual 9.70431629e-06
+Anderson took 99 iterations with Residual 1.79409338e-03
+Anderson took 40 iterations with Residual 9.76162199e-06
+Anderson took 99 iterations with Residual 2.03137058e-03
+Anderson took 42 iterations with Residual 9.68686434e-06
+Anderson took 99 iterations with Residual 1.92083424e-03
+Anderson took 52 iterations with Residual 9.89088503e-06
+Anderson took 99 iterations with Residual 1.66239487e-03
+Anderson took 60 iterations with Residual 9.92154624e-06
+Anderson took 99 iterations with Residual 1.71307667e-03
+Anderson took 46 iterations with Residual 9.65762816e-06
+Anderson took 99 iterations with Residual 1.76491254e-03
+Anderson took 40 iterations with Residual 9.89896578e-06
+Anderson took 99 iterations with Residual 1.48447450e-03
+Anderson took 41 iterations with Residual 9.99328202e-06
+Anderson took 99 iterations with Residual 1.52476716e-03
+Anderson took 158 iterations with Residual 9.97099255e-06
+Anderson took 99 iterations with Residual 1.18101064e-03
+Anderson took 44 iterations with Residual 9.62651202e-06
+Anderson took 99 iterations with Residual 1.23071119e-03
+Anderson took 43 iterations with Residual 9.55651038e-06
+Anderson took 99 iterations with Residual 1.26151738e-03
+Anderson took 39 iterations with Residual 9.51937612e-06
+Anderson took 99 iterations with Residual 1.29095066e-03
+Anderson took 44 iterations with Residual 9.91053866e-06
+Anderson took 99 iterations with Residual 1.82760858e-03
+Epoch: 14
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60989649e-03
+Anderson took 19 iterations with Residual 9.26329616e-06
+Anderson took 16 iterations with Residual 9.37101048e-06
+Anderson took 17 iterations with Residual 9.62029555e-06
+Anderson took 17 iterations with Residual 9.89359040e-06
+Anderson took 9 iterations with Residual 9.84063021e-06
+Pred PSNR on Full Image:                     32.6449 & SSIM:0.9093
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.47007009e-01
+
+
+Anderson took 46 iterations with Residual 9.99342134e-06
+Anderson took 99 iterations with Residual 1.79065583e-03
+Anderson took 56 iterations with Residual 9.96456132e-06
+Anderson took 99 iterations with Residual 1.79474806e-03
+Anderson took 199 iterations with Residual 1.04342407e-05
+Anderson took 99 iterations with Residual 1.67472218e-03
+Anderson took 141 iterations with Residual 9.91665532e-06
+Anderson took 99 iterations with Residual 1.66780064e-03
+Anderson took 49 iterations with Residual 9.91515574e-06
+Anderson took 99 iterations with Residual 1.84947980e-03
+Anderson took 53 iterations with Residual 9.83925802e-06
+Anderson took 99 iterations with Residual 2.07504786e-03
+Anderson took 44 iterations with Residual 9.73805817e-06
+Anderson took 99 iterations with Residual 2.11661342e-03
+Anderson took 40 iterations with Residual 9.87660489e-06
+Anderson took 99 iterations with Residual 2.31300283e-03
+Anderson took 40 iterations with Residual 9.53622224e-06
+Anderson took 99 iterations with Residual 1.68064158e-03
+Anderson took 40 iterations with Residual 9.79009896e-06
+Anderson took 99 iterations with Residual 1.40528031e-03
+Anderson took 38 iterations with Residual 9.56858240e-06
+Anderson took 99 iterations with Residual 1.51322601e-03
+Anderson took 40 iterations with Residual 9.59571820e-06
+Anderson took 99 iterations with Residual 1.78181001e-03
+Anderson took 38 iterations with Residual 9.76826939e-06
+Anderson took 99 iterations with Residual 1.59446709e-03
+Anderson took 41 iterations with Residual 9.88118726e-06
+Anderson took 99 iterations with Residual 1.44543094e-03
+Anderson took 132 iterations with Residual 9.93394488e-06
+Anderson took 99 iterations with Residual 1.58112206e-03
+Anderson took 55 iterations with Residual 9.99517984e-06
+Anderson took 99 iterations with Residual 1.51935058e-03
+Anderson took 50 iterations with Residual 9.99394370e-06
+Anderson took 99 iterations with Residual 1.64252082e-03
+Anderson took 48 iterations with Residual 9.68853815e-06
+Anderson took 99 iterations with Residual 1.83395323e-03
+Anderson took 47 iterations with Residual 9.95271302e-06
+Anderson took 99 iterations with Residual 1.82581565e-03
+Anderson took 91 iterations with Residual 9.98320617e-06
+Anderson took 99 iterations with Residual 1.53943781e-03
+Anderson took 52 iterations with Residual 9.96519151e-06
+Anderson took 99 iterations with Residual 1.66831724e-03
+Anderson took 45 iterations with Residual 9.88531970e-06
+Anderson took 99 iterations with Residual 1.63315890e-03
+Anderson took 132 iterations with Residual 9.93344165e-06
+Anderson took 99 iterations with Residual 1.77109424e-03
+Epoch: 15
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60261979e-03
+Anderson took 18 iterations with Residual 9.66461821e-06
+Anderson took 16 iterations with Residual 8.87858119e-06
+Anderson took 16 iterations with Residual 9.96982105e-06
+Anderson took 17 iterations with Residual 9.14631040e-06
+Anderson took 8 iterations with Residual 9.86261116e-06
+Pred PSNR on Full Image:                     32.6453 & SSIM:0.9093
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.58987813e-01
+
+
+Anderson took 42 iterations with Residual 9.97271396e-06
+Anderson took 99 iterations with Residual 1.93895817e-03
+Anderson took 39 iterations with Residual 9.77389074e-06
+Anderson took 99 iterations with Residual 1.82126145e-03
+Anderson took 151 iterations with Residual 9.99577629e-06
+Anderson took 99 iterations with Residual 2.07302772e-03
+Anderson took 44 iterations with Residual 9.98849263e-06
+Anderson took 99 iterations with Residual 1.56923780e-03
+Anderson took 38 iterations with Residual 9.50643073e-06
+Anderson took 99 iterations with Residual 1.89391431e-03
+Anderson took 39 iterations with Residual 9.97697323e-06
+Anderson took 99 iterations with Residual 1.68656405e-03
+Anderson took 40 iterations with Residual 9.75104206e-06
+Anderson took 99 iterations with Residual 2.04814708e-03
+Anderson took 45 iterations with Residual 9.76732650e-06
+Anderson took 99 iterations with Residual 1.98434750e-03
+Anderson took 40 iterations with Residual 9.97116815e-06
+Anderson took 99 iterations with Residual 1.51421217e-03
+Anderson took 41 iterations with Residual 9.70778998e-06
+Anderson took 99 iterations with Residual 1.78090442e-03
+Anderson took 43 iterations with Residual 9.80480278e-06
+Anderson took 99 iterations with Residual 1.46501164e-03
+Anderson took 46 iterations with Residual 9.71179888e-06
+Anderson took 99 iterations with Residual 1.72532652e-03
+Anderson took 44 iterations with Residual 9.80504031e-06
+Anderson took 99 iterations with Residual 1.47725100e-03
+Anderson took 46 iterations with Residual 9.90994352e-06
+Anderson took 99 iterations with Residual 1.44744984e-03
+Anderson took 108 iterations with Residual 9.96990736e-06
+Anderson took 99 iterations with Residual 1.53527470e-03
+Anderson took 44 iterations with Residual 9.63460699e-06
+Anderson took 99 iterations with Residual 1.59816779e-03
+Anderson took 42 iterations with Residual 9.73971341e-06
+Anderson took 99 iterations with Residual 1.87513513e-03
+Anderson took 41 iterations with Residual 9.87481116e-06
+Anderson took 99 iterations with Residual 1.80285755e-03
+Anderson took 199 iterations with Residual 2.53786637e-05
+Anderson took 99 iterations with Residual 1.71760900e-03
+Anderson took 78 iterations with Residual 9.81990823e-06
+Anderson took 99 iterations with Residual 1.70980349e-03
+Anderson took 41 iterations with Residual 9.96662021e-06
+Anderson took 99 iterations with Residual 1.56589044e-03
+Anderson took 43 iterations with Residual 9.92102838e-06
+Anderson took 99 iterations with Residual 1.89986269e-03
+Anderson took 81 iterations with Residual 9.93626247e-06
+Anderson took 99 iterations with Residual 1.94849460e-03
+Epoch: 16
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.59693631e-03
+Anderson took 18 iterations with Residual 9.52980563e-06
+Anderson took 15 iterations with Residual 9.85041643e-06
+Anderson took 16 iterations with Residual 9.69391983e-06
+Anderson took 17 iterations with Residual 8.98768108e-06
+Anderson took 8 iterations with Residual 9.76732070e-06
+Pred PSNR on Full Image:                     32.6450 & SSIM:0.9093
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.53603882e-01
+
+
+Anderson took 42 iterations with Residual 9.72660448e-06
+Anderson took 99 iterations with Residual 1.73846272e-03
+Anderson took 40 iterations with Residual 9.83170770e-06
+Anderson took 99 iterations with Residual 1.78244125e-03
+Anderson took 40 iterations with Residual 9.51304500e-06
+Anderson took 99 iterations with Residual 1.73464865e-03
+Anderson took 40 iterations with Residual 9.67613000e-06
+Anderson took 99 iterations with Residual 1.88333927e-03
+Anderson took 38 iterations with Residual 9.86075683e-06
+Anderson took 99 iterations with Residual 1.78370068e-03
+Anderson took 43 iterations with Residual 9.91681648e-06
+Anderson took 99 iterations with Residual 2.17550600e-03
+Anderson took 39 iterations with Residual 9.99853064e-06
+Anderson took 99 iterations with Residual 2.04610880e-03
+Anderson took 38 iterations with Residual 9.94081117e-06
+Anderson took 99 iterations with Residual 1.72709162e-03
+Anderson took 40 iterations with Residual 9.78601487e-06
+Anderson took 99 iterations with Residual 1.60110408e-03
+Anderson took 42 iterations with Residual 9.68348400e-06
+Anderson took 99 iterations with Residual 1.88102202e-03
+Anderson took 146 iterations with Residual 9.98447611e-06
+Anderson took 99 iterations with Residual 1.50489895e-03
+Anderson took 41 iterations with Residual 9.93212323e-06
+Anderson took 99 iterations with Residual 1.83189936e-03
+Anderson took 44 iterations with Residual 9.89290204e-06
+Anderson took 99 iterations with Residual 1.75754889e-03
+Anderson took 131 iterations with Residual 9.93771005e-06
+Anderson took 99 iterations with Residual 1.23316458e-03
+Anderson took 44 iterations with Residual 9.85866764e-06
+Anderson took 99 iterations with Residual 1.42242825e-03
+Anderson took 44 iterations with Residual 9.75368427e-06
+Anderson took 99 iterations with Residual 1.77946668e-03
+Anderson took 42 iterations with Residual 9.62695155e-06
+Anderson took 99 iterations with Residual 1.63245464e-03
+Anderson took 47 iterations with Residual 9.82740809e-06
+Anderson took 99 iterations with Residual 1.89841204e-03
+Anderson took 48 iterations with Residual 9.94073208e-06
+Anderson took 99 iterations with Residual 1.72125366e-03
+Anderson took 64 iterations with Residual 9.98501095e-06
+Anderson took 99 iterations with Residual 2.15391666e-03
+Anderson took 199 iterations with Residual 2.61324085e-05
+Anderson took 99 iterations with Residual 2.06598866e-03
+Anderson took 67 iterations with Residual 9.91462774e-06
+Anderson took 99 iterations with Residual 1.50337193e-03
+Anderson took 49 iterations with Residual 9.97744125e-06
+Anderson took 99 iterations with Residual 1.50116588e-03
+Epoch: 17
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60281761e-03
+Anderson took 18 iterations with Residual 9.93038247e-06
+Anderson took 16 iterations with Residual 9.00688957e-06
+Anderson took 17 iterations with Residual 9.09185019e-06
+Anderson took 17 iterations with Residual 9.40023439e-06
+Anderson took 8 iterations with Residual 9.94917082e-06
+Pred PSNR on Full Image:                     32.6439 & SSIM:0.9093
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.50783698e-01
+
+
+Anderson took 44 iterations with Residual 9.66458647e-06
+Anderson took 99 iterations with Residual 1.49952095e-03
+Anderson took 41 iterations with Residual 9.63651806e-06
+Anderson took 99 iterations with Residual 1.35143814e-03
+Anderson took 45 iterations with Residual 9.61257177e-06
+Anderson took 99 iterations with Residual 2.12059565e-03
+Anderson took 41 iterations with Residual 9.53761483e-06
+Anderson took 99 iterations with Residual 1.78823521e-03
+Anderson took 43 iterations with Residual 9.76208367e-06
+Anderson took 99 iterations with Residual 1.96811778e-03
+Anderson took 41 iterations with Residual 9.92011349e-06
+Anderson took 99 iterations with Residual 1.94422877e-03
+Anderson took 39 iterations with Residual 9.76051595e-06
+Anderson took 99 iterations with Residual 1.96813519e-03
+Anderson took 38 iterations with Residual 9.73680248e-06
+Anderson took 99 iterations with Residual 1.53441249e-03
+Anderson took 39 iterations with Residual 9.89201216e-06
+Anderson took 99 iterations with Residual 1.81048619e-03
+Anderson took 40 iterations with Residual 9.91648265e-06
+Anderson took 99 iterations with Residual 1.33912591e-03
+Anderson took 163 iterations with Residual 9.95369362e-06
+Anderson took 99 iterations with Residual 1.79904668e-03
+Anderson took 45 iterations with Residual 9.69057471e-06
+Anderson took 99 iterations with Residual 1.61447311e-03
+Anderson took 124 iterations with Residual 9.87299727e-06
+Anderson took 99 iterations with Residual 2.14542439e-03
+Anderson took 43 iterations with Residual 9.87777315e-06
+Anderson took 99 iterations with Residual 2.06878523e-03
+Anderson took 41 iterations with Residual 9.70739339e-06
+Anderson took 99 iterations with Residual 1.78085521e-03
+Anderson took 38 iterations with Residual 9.78686377e-06
+Anderson took 99 iterations with Residual 1.90110939e-03
+Anderson took 130 iterations with Residual 9.94217234e-06
+Anderson took 99 iterations with Residual 1.86050832e-03
+Anderson took 43 iterations with Residual 9.51608187e-06
+Anderson took 99 iterations with Residual 2.11175017e-03
+Anderson took 40 iterations with Residual 9.72806189e-06
+Anderson took 99 iterations with Residual 1.48662793e-03
+Anderson took 41 iterations with Residual 9.48926182e-06
+Anderson took 99 iterations with Residual 1.85005548e-03
+Anderson took 40 iterations with Residual 9.70847082e-06
+Anderson took 99 iterations with Residual 1.54376659e-03
+Anderson took 41 iterations with Residual 9.86841968e-06
+Anderson took 99 iterations with Residual 1.72471499e-03
+Anderson took 46 iterations with Residual 9.98924871e-06
+Anderson took 99 iterations with Residual 1.65670368e-03
+Epoch: 18
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.59842255e-03
+Anderson took 18 iterations with Residual 9.96342946e-06
+Anderson took 16 iterations with Residual 9.01317379e-06
+Anderson took 17 iterations with Residual 9.50047861e-06
+Anderson took 17 iterations with Residual 9.57743508e-06
+Anderson took 8 iterations with Residual 9.99501034e-06
+Pred PSNR on Full Image:                     32.6413 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.45137893e-01
+
+
+Anderson took 158 iterations with Residual 9.98127699e-06
+Anderson took 99 iterations with Residual 1.48065900e-03
+Anderson took 45 iterations with Residual 9.80513958e-06
+Anderson took 99 iterations with Residual 1.67161331e-03
+Anderson took 39 iterations with Residual 9.97730737e-06
+Anderson took 99 iterations with Residual 1.45107050e-03
+Anderson took 43 iterations with Residual 9.79049817e-06
+Anderson took 99 iterations with Residual 1.74527698e-03
+Anderson took 143 iterations with Residual 9.84903082e-06
+Anderson took 99 iterations with Residual 2.01852385e-03
+Anderson took 40 iterations with Residual 9.67704339e-06
+Anderson took 99 iterations with Residual 1.45141084e-03
+Anderson took 39 iterations with Residual 9.69758716e-06
+Anderson took 99 iterations with Residual 1.84318858e-03
+Anderson took 38 iterations with Residual 9.97268712e-06
+Anderson took 99 iterations with Residual 2.08058982e-03
+Anderson took 39 iterations with Residual 9.56958006e-06
+Anderson took 99 iterations with Residual 1.66091831e-03
+Anderson took 45 iterations with Residual 9.65240165e-06
+Anderson took 99 iterations with Residual 2.02226729e-03
+Anderson took 199 iterations with Residual 1.19730846e-05
+Anderson took 99 iterations with Residual 1.78699343e-03
+Anderson took 123 iterations with Residual 9.92369166e-06
+Anderson took 99 iterations with Residual 1.52295856e-03
+Anderson took 45 iterations with Residual 9.71323466e-06
+Anderson took 99 iterations with Residual 1.75996295e-03
+Anderson took 45 iterations with Residual 9.56896808e-06
+Anderson took 99 iterations with Residual 2.04975580e-03
+Anderson took 38 iterations with Residual 9.92657456e-06
+Anderson took 99 iterations with Residual 1.52841372e-03
+Anderson took 43 iterations with Residual 9.96352707e-06
+Anderson took 99 iterations with Residual 1.87644009e-03
+Anderson took 40 iterations with Residual 9.87563257e-06
+Anderson took 99 iterations with Residual 1.61153305e-03
+Anderson took 42 iterations with Residual 9.72542421e-06
+Anderson took 99 iterations with Residual 1.90406746e-03
+Anderson took 42 iterations with Residual 9.80867294e-06
+Anderson took 99 iterations with Residual 1.81587423e-03
+Anderson took 44 iterations with Residual 9.63207063e-06
+Anderson took 99 iterations with Residual 1.78317614e-03
+Anderson took 41 iterations with Residual 9.58547196e-06
+Anderson took 99 iterations with Residual 1.76691703e-03
+Anderson took 41 iterations with Residual 9.62196110e-06
+Anderson took 99 iterations with Residual 1.91372972e-03
+Anderson took 42 iterations with Residual 9.79374176e-06
+Anderson took 99 iterations with Residual 2.10944133e-03
+Epoch: 19
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60439817e-03
+Anderson took 19 iterations with Residual 9.51357597e-06
+Anderson took 16 iterations with Residual 9.53486429e-06
+Anderson took 18 iterations with Residual 9.05651486e-06
+Anderson took 18 iterations with Residual 9.19906005e-06
+Anderson took 10 iterations with Residual 9.25357391e-06
+Pred PSNR on Full Image:                     32.6406 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.62514442e-01
+
+
+Anderson took 40 iterations with Residual 9.97407921e-06
+Anderson took 99 iterations with Residual 1.96557548e-03
+Anderson took 46 iterations with Residual 9.87671725e-06
+Anderson took 99 iterations with Residual 1.73414317e-03
+Anderson took 199 iterations with Residual 1.16806176e-05
+Anderson took 99 iterations with Residual 1.81757644e-03
+Anderson took 199 iterations with Residual 1.67309250e-05
+Anderson took 99 iterations with Residual 1.33423869e-03
+Anderson took 51 iterations with Residual 9.90838732e-06
+Anderson took 99 iterations with Residual 1.65951126e-03
+Anderson took 41 iterations with Residual 9.95225580e-06
+Anderson took 99 iterations with Residual 1.57759002e-03
+Anderson took 41 iterations with Residual 9.77165012e-06
+Anderson took 99 iterations with Residual 1.64434364e-03
+Anderson took 41 iterations with Residual 9.95657725e-06
+Anderson took 99 iterations with Residual 1.47604225e-03
+Anderson took 41 iterations with Residual 9.91031383e-06
+Anderson took 99 iterations with Residual 1.51082162e-03
+Anderson took 40 iterations with Residual 9.59553627e-06
+Anderson took 99 iterations with Residual 1.83667124e-03
+Anderson took 49 iterations with Residual 9.74338792e-06
+Anderson took 99 iterations with Residual 2.04557654e-03
+Anderson took 145 iterations with Residual 9.91324653e-06
+Anderson took 99 iterations with Residual 1.98203451e-03
+Anderson took 48 iterations with Residual 9.74478235e-06
+Anderson took 99 iterations with Residual 2.42307494e-03
+Anderson took 47 iterations with Residual 9.95387699e-06
+Anderson took 99 iterations with Residual 2.07071436e-03
+Anderson took 48 iterations with Residual 9.80851733e-06
+Anderson took 99 iterations with Residual 2.05513070e-03
+Anderson took 42 iterations with Residual 9.75090675e-06
+Anderson took 99 iterations with Residual 1.68511345e-03
+Anderson took 39 iterations with Residual 9.69329544e-06
+Anderson took 99 iterations with Residual 1.59036317e-03
+Anderson took 40 iterations with Residual 9.99753446e-06
+Anderson took 99 iterations with Residual 1.57445143e-03
+Anderson took 44 iterations with Residual 9.81284376e-06
+Anderson took 99 iterations with Residual 1.96781908e-03
+Anderson took 149 iterations with Residual 9.87732944e-06
+Anderson took 99 iterations with Residual 1.65260908e-03
+Anderson took 42 iterations with Residual 9.53480913e-06
+Anderson took 99 iterations with Residual 1.99930064e-03
+Anderson took 44 iterations with Residual 9.51463489e-06
+Anderson took 99 iterations with Residual 1.76884911e-03
+Anderson took 40 iterations with Residual 9.60228914e-06
+Anderson took 99 iterations with Residual 1.40233832e-03
+Epoch: 20
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60071650e-03
+Anderson took 19 iterations with Residual 9.11817167e-06
+Anderson took 16 iterations with Residual 9.14599824e-06
+Anderson took 17 iterations with Residual 9.01487288e-06
+Anderson took 17 iterations with Residual 9.79128434e-06
+Anderson took 9 iterations with Residual 9.89040796e-06
+Pred PSNR on Full Image:                     32.6420 & SSIM:0.9093
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.54323244e-01
+
+
+Anderson took 162 iterations with Residual 9.86931635e-06
+Anderson took 99 iterations with Residual 1.61321193e-03
+Anderson took 45 iterations with Residual 9.62601682e-06
+Anderson took 99 iterations with Residual 1.98348796e-03
+Anderson took 41 iterations with Residual 9.72786840e-06
+Anderson took 99 iterations with Residual 1.83556714e-03
+Anderson took 45 iterations with Residual 9.94494904e-06
+Anderson took 99 iterations with Residual 1.65216484e-03
+Anderson took 73 iterations with Residual 9.92794211e-06
+Anderson took 99 iterations with Residual 1.69319557e-03
+Anderson took 46 iterations with Residual 9.98849363e-06
+Anderson took 99 iterations with Residual 1.71775572e-03
+Anderson took 42 iterations with Residual 9.61148537e-06
+Anderson took 99 iterations with Residual 1.44177387e-03
+Anderson took 47 iterations with Residual 9.77592036e-06
+Anderson took 99 iterations with Residual 1.86671567e-03
+Anderson took 199 iterations with Residual 1.12578333e-05
+Anderson took 99 iterations with Residual 1.87508473e-03
+Anderson took 65 iterations with Residual 9.92705652e-06
+Anderson took 99 iterations with Residual 1.82179112e-03
+Anderson took 46 iterations with Residual 9.77091362e-06
+Anderson took 99 iterations with Residual 1.66562995e-03
+Anderson took 173 iterations with Residual 9.76300738e-06
+Anderson took 99 iterations with Residual 1.87944595e-03
+Anderson took 44 iterations with Residual 9.79655231e-06
+Anderson took 99 iterations with Residual 1.97456754e-03
+Anderson took 39 iterations with Residual 9.83315651e-06
+Anderson took 99 iterations with Residual 9.54365696e-04
+Anderson took 38 iterations with Residual 9.51963478e-06
+Anderson took 99 iterations with Residual 1.67666379e-03
+Anderson took 39 iterations with Residual 9.75826905e-06
+Anderson took 99 iterations with Residual 1.46727586e-03
+Anderson took 38 iterations with Residual 9.62690924e-06
+Anderson took 99 iterations with Residual 1.51855192e-03
+Anderson took 39 iterations with Residual 9.76977273e-06
+Anderson took 99 iterations with Residual 1.67658290e-03
+Anderson took 41 iterations with Residual 9.88323159e-06
+Anderson took 99 iterations with Residual 1.64536894e-03
+Anderson took 39 iterations with Residual 9.81707215e-06
+Anderson took 99 iterations with Residual 1.48861112e-03
+Anderson took 39 iterations with Residual 9.77302381e-06
+Anderson took 99 iterations with Residual 1.48847018e-03
+Anderson took 39 iterations with Residual 9.98168819e-06
+Anderson took 99 iterations with Residual 1.74188136e-03
+Anderson took 42 iterations with Residual 9.95806444e-06
+Anderson took 99 iterations with Residual 2.00021006e-03
+Epoch: 21
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60279405e-03
+Anderson took 19 iterations with Residual 9.93369269e-06
+Anderson took 16 iterations with Residual 9.89399248e-06
+Anderson took 18 iterations with Residual 9.33572808e-06
+Anderson took 18 iterations with Residual 9.91368078e-06
+Anderson took 10 iterations with Residual 9.39727587e-06
+Pred PSNR on Full Image:                     32.6378 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.59822387e-01
+
+
+Anderson took 199 iterations with Residual 1.06754199e-05
+Anderson took 99 iterations with Residual 1.51791488e-03
+Anderson took 113 iterations with Residual 9.92849838e-06
+Anderson took 99 iterations with Residual 2.46743532e-03
+Anderson took 44 iterations with Residual 9.63572433e-06
+Anderson took 99 iterations with Residual 2.01552350e-03
+Anderson took 41 iterations with Residual 9.73011241e-06
+Anderson took 99 iterations with Residual 1.86696119e-03
+Anderson took 41 iterations with Residual 9.66725418e-06
+Anderson took 99 iterations with Residual 1.96900978e-03
+Anderson took 41 iterations with Residual 9.56500588e-06
+Anderson took 99 iterations with Residual 1.75456236e-03
+Anderson took 45 iterations with Residual 9.63211193e-06
+Anderson took 99 iterations with Residual 1.81102458e-03
+Anderson took 47 iterations with Residual 9.76778161e-06
+Anderson took 99 iterations with Residual 1.67395608e-03
+Anderson took 63 iterations with Residual 9.98556135e-06
+Anderson took 99 iterations with Residual 1.94149709e-03
+Anderson took 47 iterations with Residual 9.98406785e-06
+Anderson took 99 iterations with Residual 1.63579813e-03
+Anderson took 47 iterations with Residual 9.97526640e-06
+Anderson took 99 iterations with Residual 1.86981179e-03
+Anderson took 46 iterations with Residual 9.88994927e-06
+Anderson took 99 iterations with Residual 1.88287535e-03
+Anderson took 168 iterations with Residual 9.96717185e-06
+Anderson took 99 iterations with Residual 1.85733151e-03
+Anderson took 46 iterations with Residual 9.93353648e-06
+Anderson took 99 iterations with Residual 1.90731059e-03
+Anderson took 152 iterations with Residual 9.89391438e-06
+Anderson took 99 iterations with Residual 1.44404262e-03
+Anderson took 46 iterations with Residual 9.92299533e-06
+Anderson took 99 iterations with Residual 1.04079294e-03
+Anderson took 44 iterations with Residual 9.71466818e-06
+Anderson took 99 iterations with Residual 1.89163931e-03
+Anderson took 39 iterations with Residual 9.80176524e-06
+Anderson took 99 iterations with Residual 1.66399002e-03
+Anderson took 41 iterations with Residual 9.88541757e-06
+Anderson took 99 iterations with Residual 1.81645133e-03
+Anderson took 44 iterations with Residual 9.51723057e-06
+Anderson took 99 iterations with Residual 1.98696166e-03
+Anderson took 41 iterations with Residual 9.99475181e-06
+Anderson took 99 iterations with Residual 1.94116944e-03
+Anderson took 43 iterations with Residual 9.68947461e-06
+Anderson took 99 iterations with Residual 1.60207769e-03
+Anderson took 44 iterations with Residual 9.81461984e-06
+Anderson took 99 iterations with Residual 1.82796677e-03
+Epoch: 22
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.59655946e-03
+Anderson took 19 iterations with Residual 9.17281135e-06
+Anderson took 16 iterations with Residual 9.15215039e-06
+Anderson took 17 iterations with Residual 9.33071540e-06
+Anderson took 17 iterations with Residual 9.90916660e-06
+Anderson took 9 iterations with Residual 9.80765961e-06
+Pred PSNR on Full Image:                     32.6397 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.52390242e-01
+
+
+Anderson took 41 iterations with Residual 9.94782229e-06
+Anderson took 99 iterations with Residual 1.63109402e-03
+Anderson took 41 iterations with Residual 9.65906421e-06
+Anderson took 99 iterations with Residual 1.72886385e-03
+Anderson took 149 iterations with Residual 9.98453877e-06
+Anderson took 99 iterations with Residual 1.58249831e-03
+Anderson took 44 iterations with Residual 9.99764227e-06
+Anderson took 99 iterations with Residual 2.15782695e-03
+Anderson took 39 iterations with Residual 9.70743118e-06
+Anderson took 99 iterations with Residual 1.63310740e-03
+Anderson took 41 iterations with Residual 9.79906972e-06
+Anderson took 99 iterations with Residual 2.06472363e-03
+Anderson took 48 iterations with Residual 9.90382895e-06
+Anderson took 99 iterations with Residual 1.81094849e-03
+Anderson took 92 iterations with Residual 9.92815509e-06
+Anderson took 99 iterations with Residual 2.03847488e-03
+Anderson took 59 iterations with Residual 9.97375339e-06
+Anderson took 99 iterations with Residual 1.99918294e-03
+Anderson took 53 iterations with Residual 9.90309537e-06
+Anderson took 99 iterations with Residual 1.62784009e-03
+Anderson took 53 iterations with Residual 9.94792170e-06
+Anderson took 99 iterations with Residual 1.93633251e-03
+Anderson took 49 iterations with Residual 9.94932663e-06
+Anderson took 99 iterations with Residual 1.86780293e-03
+Anderson took 47 iterations with Residual 9.99574669e-06
+Anderson took 99 iterations with Residual 1.96465148e-03
+Anderson took 43 iterations with Residual 9.72887214e-06
+Anderson took 99 iterations with Residual 1.94590011e-03
+Anderson took 41 iterations with Residual 9.72220297e-06
+Anderson took 99 iterations with Residual 1.64213270e-03
+Anderson took 40 iterations with Residual 9.87600462e-06
+Anderson took 99 iterations with Residual 1.93173573e-03
+Anderson took 42 iterations with Residual 9.83225510e-06
+Anderson took 99 iterations with Residual 1.76471649e-03
+Anderson took 42 iterations with Residual 9.62635577e-06
+Anderson took 99 iterations with Residual 1.50311409e-03
+Anderson took 41 iterations with Residual 9.85742321e-06
+Anderson took 99 iterations with Residual 1.47974724e-03
+Anderson took 126 iterations with Residual 9.91325867e-06
+Anderson took 99 iterations with Residual 1.48515254e-03
+Anderson took 45 iterations with Residual 9.68160903e-06
+Anderson took 99 iterations with Residual 1.50301579e-03
+Anderson took 47 iterations with Residual 9.98119277e-06
+Anderson took 99 iterations with Residual 1.85752246e-03
+Anderson took 44 iterations with Residual 9.69133801e-06
+Anderson took 99 iterations with Residual 2.07048895e-03
+Epoch: 23
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60035875e-03
+Anderson took 18 iterations with Residual 9.79177028e-06
+Anderson took 15 iterations with Residual 9.95523764e-06
+Anderson took 17 iterations with Residual 9.01271237e-06
+Anderson took 17 iterations with Residual 9.46926281e-06
+Anderson took 8 iterations with Residual 9.95648535e-06
+Pred PSNR on Full Image:                     32.6403 & SSIM:0.9093
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.56164894e-01
+
+
+Anderson took 42 iterations with Residual 9.68443386e-06
+Anderson took 99 iterations with Residual 2.11989956e-03
+Anderson took 45 iterations with Residual 9.61975141e-06
+Anderson took 99 iterations with Residual 2.02515636e-03
+Anderson took 192 iterations with Residual 9.87482299e-06
+Anderson took 99 iterations with Residual 1.74406295e-03
+Anderson took 41 iterations with Residual 9.87656542e-06
+Anderson took 99 iterations with Residual 1.87733827e-03
+Anderson took 41 iterations with Residual 9.54363756e-06
+Anderson took 99 iterations with Residual 1.76743612e-03
+Anderson took 44 iterations with Residual 9.61508977e-06
+Anderson took 99 iterations with Residual 2.10063614e-03
+Anderson took 39 iterations with Residual 9.65993156e-06
+Anderson took 99 iterations with Residual 2.12103514e-03
+Anderson took 40 iterations with Residual 9.50834312e-06
+Anderson took 99 iterations with Residual 2.09293249e-03
+Anderson took 45 iterations with Residual 9.52849522e-06
+Anderson took 99 iterations with Residual 2.49995724e-03
+Anderson took 41 iterations with Residual 9.47740844e-06
+Anderson took 99 iterations with Residual 2.02367567e-03
+Anderson took 41 iterations with Residual 9.93508256e-06
+Anderson took 99 iterations with Residual 2.05892671e-03
+Anderson took 40 iterations with Residual 9.81702215e-06
+Anderson took 99 iterations with Residual 1.89437913e-03
+Anderson took 48 iterations with Residual 9.67428676e-06
+Anderson took 99 iterations with Residual 2.21238974e-03
+Anderson took 192 iterations with Residual 9.94384131e-06
+Anderson took 99 iterations with Residual 1.84588829e-03
+Anderson took 177 iterations with Residual 9.99470714e-06
+Anderson took 99 iterations with Residual 1.65673571e-03
+Anderson took 79 iterations with Residual 9.98386961e-06
+Anderson took 99 iterations with Residual 1.67717764e-03
+Anderson took 53 iterations with Residual 9.94904356e-06
+Anderson took 99 iterations with Residual 1.71103072e-03
+Anderson took 47 iterations with Residual 9.90750587e-06
+Anderson took 99 iterations with Residual 1.35052931e-03
+Anderson took 45 iterations with Residual 9.66744384e-06
+Anderson took 99 iterations with Residual 1.30307479e-03
+Anderson took 41 iterations with Residual 9.69413080e-06
+Anderson took 99 iterations with Residual 1.43373947e-03
+Anderson took 39 iterations with Residual 9.94815900e-06
+Anderson took 99 iterations with Residual 1.35333246e-03
+Anderson took 39 iterations with Residual 9.65238509e-06
+Anderson took 99 iterations with Residual 2.04411863e-03
+Anderson took 42 iterations with Residual 9.95751069e-06
+Anderson took 99 iterations with Residual 1.99489222e-03
+Epoch: 24
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60050997e-03
+Anderson took 19 iterations with Residual 9.55183467e-06
+Anderson took 16 iterations with Residual 9.45344482e-06
+Anderson took 17 iterations with Residual 9.79771482e-06
+Anderson took 18 iterations with Residual 9.29963047e-06
+Anderson took 10 iterations with Residual 9.21762943e-06
+Pred PSNR on Full Image:                     32.6395 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.55921300e-01
+
+
+Anderson took 41 iterations with Residual 9.70369756e-06
+Anderson took 99 iterations with Residual 1.58342540e-03
+Anderson took 41 iterations with Residual 9.77405624e-06
+Anderson took 99 iterations with Residual 2.03652475e-03
+Anderson took 41 iterations with Residual 9.58640331e-06
+Anderson took 99 iterations with Residual 1.64803043e-03
+Anderson took 42 iterations with Residual 9.88510630e-06
+Anderson took 99 iterations with Residual 2.08482124e-03
+Anderson took 57 iterations with Residual 9.91239587e-06
+Anderson took 99 iterations with Residual 2.19915182e-03
+Anderson took 56 iterations with Residual 9.88891394e-06
+Anderson took 99 iterations with Residual 1.64501838e-03
+Anderson took 46 iterations with Residual 9.79394257e-06
+Anderson took 99 iterations with Residual 1.50735808e-03
+Anderson took 46 iterations with Residual 9.85942675e-06
+Anderson took 99 iterations with Residual 1.92833732e-03
+Anderson took 44 iterations with Residual 9.68140342e-06
+Anderson took 99 iterations with Residual 1.57792598e-03
+Anderson took 46 iterations with Residual 9.81975039e-06
+Anderson took 99 iterations with Residual 1.41877947e-03
+Anderson took 46 iterations with Residual 9.79625762e-06
+Anderson took 99 iterations with Residual 1.80162145e-03
+Anderson took 44 iterations with Residual 9.95804958e-06
+Anderson took 99 iterations with Residual 1.62606089e-03
+Anderson took 41 iterations with Residual 9.89455343e-06
+Anderson took 99 iterations with Residual 1.87703055e-03
+Anderson took 46 iterations with Residual 9.57595949e-06
+Anderson took 99 iterations with Residual 2.22724661e-03
+Anderson took 41 iterations with Residual 9.59553890e-06
+Anderson took 99 iterations with Residual 1.88403025e-03
+Anderson took 42 iterations with Residual 9.86125926e-06
+Anderson took 99 iterations with Residual 2.17775547e-03
+Anderson took 43 iterations with Residual 9.99285929e-06
+Anderson took 99 iterations with Residual 1.60617517e-03
+Anderson took 43 iterations with Residual 9.98098958e-06
+Anderson took 99 iterations with Residual 2.10438373e-03
+Anderson took 43 iterations with Residual 9.72588153e-06
+Anderson took 99 iterations with Residual 2.45684039e-03
+Anderson took 51 iterations with Residual 9.87787238e-06
+Anderson took 99 iterations with Residual 2.20518159e-03
+Anderson took 199 iterations with Residual 2.22713488e-05
+Anderson took 99 iterations with Residual 2.07234202e-03
+Anderson took 59 iterations with Residual 9.91801130e-06
+Anderson took 99 iterations with Residual 1.77828692e-03
+Anderson took 47 iterations with Residual 9.66118776e-06
+Anderson took 99 iterations with Residual 2.06377092e-03
+Epoch: 25
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60136217e-03
+Anderson took 19 iterations with Residual 9.04111146e-06
+Anderson took 16 iterations with Residual 9.02994136e-06
+Anderson took 17 iterations with Residual 9.19996606e-06
+Anderson took 17 iterations with Residual 9.80836213e-06
+Anderson took 9 iterations with Residual 9.86475809e-06
+Pred PSNR on Full Image:                     32.6400 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.55930784e-01
+
+
+Anderson took 41 iterations with Residual 9.90824648e-06
+Anderson took 99 iterations with Residual 1.80958066e-03
+Anderson took 40 iterations with Residual 9.72835384e-06
+Anderson took 99 iterations with Residual 1.98058318e-03
+Anderson took 54 iterations with Residual 9.98480799e-06
+Anderson took 99 iterations with Residual 1.80145269e-03
+Anderson took 84 iterations with Residual 9.79455571e-06
+Anderson took 99 iterations with Residual 1.69124033e-03
+Anderson took 39 iterations with Residual 9.92036755e-06
+Anderson took 99 iterations with Residual 1.56745782e-03
+Anderson took 41 iterations with Residual 9.90048896e-06
+Anderson took 99 iterations with Residual 1.73682398e-03
+Anderson took 40 iterations with Residual 9.91862436e-06
+Anderson took 99 iterations with Residual 1.77789854e-03
+Anderson took 42 iterations with Residual 9.83135451e-06
+Anderson took 99 iterations with Residual 2.42668958e-03
+Anderson took 41 iterations with Residual 9.88426399e-06
+Anderson took 99 iterations with Residual 1.86445877e-03
+Anderson took 42 iterations with Residual 9.89363797e-06
+Anderson took 99 iterations with Residual 1.89329693e-03
+Anderson took 43 iterations with Residual 9.77642859e-06
+Anderson took 99 iterations with Residual 1.44355183e-03
+Anderson took 199 iterations with Residual 1.40740161e-05
+Anderson took 99 iterations with Residual 1.79074114e-03
+Anderson took 160 iterations with Residual 9.96874734e-06
+Anderson took 99 iterations with Residual 1.68975402e-03
+Anderson took 47 iterations with Residual 9.87643712e-06
+Anderson took 99 iterations with Residual 1.78248684e-03
+Anderson took 40 iterations with Residual 9.54853604e-06
+Anderson took 99 iterations with Residual 1.36598921e-03
+Anderson took 45 iterations with Residual 9.68555552e-06
+Anderson took 99 iterations with Residual 1.87525053e-03
+Anderson took 43 iterations with Residual 9.93829501e-06
+Anderson took 99 iterations with Residual 1.59142451e-03
+Anderson took 46 iterations with Residual 9.89276858e-06
+Anderson took 99 iterations with Residual 1.85061459e-03
+Anderson took 41 iterations with Residual 9.75533909e-06
+Anderson took 99 iterations with Residual 1.55989847e-03
+Anderson took 40 iterations with Residual 9.51592342e-06
+Anderson took 99 iterations with Residual 1.40766393e-03
+Anderson took 43 iterations with Residual 9.77465220e-06
+Anderson took 99 iterations with Residual 2.55868162e-03
+Anderson took 199 iterations with Residual 1.22464894e-05
+Anderson took 99 iterations with Residual 2.16253701e-03
+Anderson took 43 iterations with Residual 9.72084169e-06
+Anderson took 99 iterations with Residual 1.90529373e-03
+Epoch: 26
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.59892598e-03
+Anderson took 18 iterations with Residual 9.55947309e-06
+Anderson took 15 iterations with Residual 9.77449792e-06
+Anderson took 16 iterations with Residual 9.80990097e-06
+Anderson took 17 iterations with Residual 9.19173100e-06
+Anderson took 8 iterations with Residual 9.94268276e-06
+Pred PSNR on Full Image:                     32.6406 & SSIM:0.9093
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.62288666e-01
+
+
+Anderson took 41 iterations with Residual 9.99119720e-06
+Anderson took 99 iterations with Residual 2.23663330e-03
+Anderson took 43 iterations with Residual 9.89169849e-06
+Anderson took 99 iterations with Residual 2.17247885e-03
+Anderson took 40 iterations with Residual 9.52567123e-06
+Anderson took 99 iterations with Residual 1.93913539e-03
+Anderson took 38 iterations with Residual 9.51189712e-06
+Anderson took 99 iterations with Residual 1.62474359e-03
+Anderson took 41 iterations with Residual 9.48722254e-06
+Anderson took 99 iterations with Residual 2.27621298e-03
+Anderson took 46 iterations with Residual 9.96448972e-06
+Anderson took 99 iterations with Residual 2.49749362e-03
+Anderson took 40 iterations with Residual 9.78868392e-06
+Anderson took 99 iterations with Residual 2.21350655e-03
+Anderson took 45 iterations with Residual 9.97140254e-06
+Anderson took 99 iterations with Residual 2.04464459e-03
+Anderson took 199 iterations with Residual 1.21203042e-05
+Anderson took 99 iterations with Residual 1.99109770e-03
+Anderson took 133 iterations with Residual 9.97013955e-06
+Anderson took 99 iterations with Residual 1.77133439e-03
+Anderson took 42 iterations with Residual 9.95842509e-06
+Anderson took 99 iterations with Residual 1.32638504e-03
+Anderson took 40 iterations with Residual 9.59767811e-06
+Anderson took 99 iterations with Residual 1.48846201e-03
+Anderson took 43 iterations with Residual 9.98979005e-06
+Anderson took 99 iterations with Residual 1.63760735e-03
+Anderson took 51 iterations with Residual 9.91415207e-06
+Anderson took 99 iterations with Residual 1.77189165e-03
+Anderson took 53 iterations with Residual 9.99720967e-06
+Anderson took 99 iterations with Residual 1.45114898e-03
+Anderson took 42 iterations with Residual 9.69232117e-06
+Anderson took 99 iterations with Residual 1.73169648e-03
+Anderson took 42 iterations with Residual 9.90679391e-06
+Anderson took 99 iterations with Residual 1.95803599e-03
+Anderson took 40 iterations with Residual 9.48095210e-06
+Anderson took 99 iterations with Residual 2.26404406e-03
+Anderson took 40 iterations with Residual 9.83750579e-06
+Anderson took 99 iterations with Residual 2.22766570e-03
+Anderson took 40 iterations with Residual 9.88859038e-06
+Anderson took 99 iterations with Residual 2.18439522e-03
+Anderson took 41 iterations with Residual 9.89621511e-06
+Anderson took 99 iterations with Residual 1.96612091e-03
+Anderson took 40 iterations with Residual 9.58436868e-06
+Anderson took 99 iterations with Residual 2.02731153e-03
+Anderson took 42 iterations with Residual 9.81363039e-06
+Anderson took 99 iterations with Residual 1.56990205e-03
+Epoch: 27
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60220141e-03
+Anderson took 19 iterations with Residual 9.76308799e-06
+Anderson took 16 iterations with Residual 9.57628005e-06
+Anderson took 18 iterations with Residual 9.12812626e-06
+Anderson took 18 iterations with Residual 9.60813733e-06
+Anderson took 10 iterations with Residual 9.28543060e-06
+Pred PSNR on Full Image:                     32.6376 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.51192325e-01
+
+
+Anderson took 68 iterations with Residual 9.98931156e-06
+Anderson took 99 iterations with Residual 2.04252497e-03
+Anderson took 48 iterations with Residual 9.79660409e-06
+Anderson took 99 iterations with Residual 1.41527937e-03
+Anderson took 47 iterations with Residual 9.81460961e-06
+Anderson took 99 iterations with Residual 1.91834043e-03
+Anderson took 61 iterations with Residual 9.98322925e-06
+Anderson took 99 iterations with Residual 1.99167459e-03
+Anderson took 47 iterations with Residual 9.69180639e-06
+Anderson took 99 iterations with Residual 1.87837902e-03
+Anderson took 52 iterations with Residual 9.97005127e-06
+Anderson took 99 iterations with Residual 1.80878331e-03
+Anderson took 199 iterations with Residual 1.59787608e-05
+Anderson took 99 iterations with Residual 1.92214416e-03
+Anderson took 174 iterations with Residual 9.91580557e-06
+Anderson took 99 iterations with Residual 2.17414356e-03
+Anderson took 46 iterations with Residual 9.69935663e-06
+Anderson took 99 iterations with Residual 2.11996754e-03
+Anderson took 55 iterations with Residual 9.98837381e-06
+Anderson took 99 iterations with Residual 2.02588167e-03
+Anderson took 59 iterations with Residual 9.92356757e-06
+Anderson took 99 iterations with Residual 1.66244226e-03
+Anderson took 51 iterations with Residual 9.86280023e-06
+Anderson took 99 iterations with Residual 1.79708926e-03
+Anderson took 42 iterations with Residual 9.73827497e-06
+Anderson took 99 iterations with Residual 1.69651074e-03
+Anderson took 42 iterations with Residual 9.94099271e-06
+Anderson took 99 iterations with Residual 1.90806224e-03
+Anderson took 43 iterations with Residual 9.85329734e-06
+Anderson took 99 iterations with Residual 1.59745606e-03
+Anderson took 73 iterations with Residual 9.95027899e-06
+Anderson took 99 iterations with Residual 1.44387245e-03
+Anderson took 47 iterations with Residual 9.76165343e-06
+Anderson took 99 iterations with Residual 2.30636431e-03
+Anderson took 42 iterations with Residual 9.89471236e-06
+Anderson took 99 iterations with Residual 1.58145647e-03
+Anderson took 40 iterations with Residual 9.59608976e-06
+Anderson took 99 iterations with Residual 1.72599941e-03
+Anderson took 40 iterations with Residual 9.77390468e-06
+Anderson took 99 iterations with Residual 1.85270123e-03
+Anderson took 40 iterations with Residual 9.94428760e-06
+Anderson took 99 iterations with Residual 2.12668737e-03
+Anderson took 41 iterations with Residual 9.51388092e-06
+Anderson took 99 iterations with Residual 1.84894293e-03
+Anderson took 41 iterations with Residual 9.82525983e-06
+Anderson took 99 iterations with Residual 2.36251368e-03
+Epoch: 28
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.59928709e-03
+Anderson took 19 iterations with Residual 9.79470328e-06
+Anderson took 16 iterations with Residual 9.66071907e-06
+Anderson took 18 iterations with Residual 9.08686294e-06
+Anderson took 18 iterations with Residual 9.71255551e-06
+Anderson took 10 iterations with Residual 9.32315441e-06
+Pred PSNR on Full Image:                     32.6372 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.61359529e-01
+
+
+Anderson took 138 iterations with Residual 9.88480044e-06
+Anderson took 99 iterations with Residual 1.82098972e-03
+Anderson took 40 iterations with Residual 9.89551622e-06
+Anderson took 99 iterations with Residual 1.84585223e-03
+Anderson took 40 iterations with Residual 9.63869877e-06
+Anderson took 99 iterations with Residual 1.88043520e-03
+Anderson took 41 iterations with Residual 9.63805838e-06
+Anderson took 99 iterations with Residual 1.67887897e-03
+Anderson took 41 iterations with Residual 9.80746093e-06
+Anderson took 99 iterations with Residual 1.87593400e-03
+Anderson took 40 iterations with Residual 9.78692753e-06
+Anderson took 99 iterations with Residual 1.71944334e-03
+Anderson took 40 iterations with Residual 9.51874056e-06
+Anderson took 99 iterations with Residual 1.63876516e-03
+Anderson took 42 iterations with Residual 9.53877191e-06
+Anderson took 99 iterations with Residual 2.08944567e-03
+Anderson took 199 iterations with Residual 1.17658151e-05
+Anderson took 99 iterations with Residual 1.63354000e-03
+Anderson took 45 iterations with Residual 9.89898235e-06
+Anderson took 99 iterations with Residual 2.06160146e-03
+Anderson took 43 iterations with Residual 9.81722594e-06
+Anderson took 99 iterations with Residual 2.02641263e-03
+Anderson took 42 iterations with Residual 9.58765122e-06
+Anderson took 99 iterations with Residual 1.70185297e-03
+Anderson took 48 iterations with Residual 9.92204101e-06
+Anderson took 99 iterations with Residual 2.03736333e-03
+Anderson took 151 iterations with Residual 9.94642086e-06
+Anderson took 99 iterations with Residual 2.25449592e-03
+Anderson took 43 iterations with Residual 9.86074004e-06
+Anderson took 99 iterations with Residual 1.71075491e-03
+Anderson took 41 iterations with Residual 9.74813763e-06
+Anderson took 99 iterations with Residual 1.69595767e-03
+Anderson took 40 iterations with Residual 9.70327185e-06
+Anderson took 99 iterations with Residual 1.84215998e-03
+Anderson took 41 iterations with Residual 9.99192082e-06
+Anderson took 99 iterations with Residual 1.50574272e-03
+Anderson took 46 iterations with Residual 9.87500166e-06
+Anderson took 99 iterations with Residual 2.42216952e-03
+Anderson took 45 iterations with Residual 9.69040208e-06
+Anderson took 99 iterations with Residual 2.21407448e-03
+Anderson took 45 iterations with Residual 9.86268773e-06
+Anderson took 99 iterations with Residual 1.89611241e-03
+Anderson took 44 iterations with Residual 9.91518257e-06
+Anderson took 99 iterations with Residual 1.40383275e-03
+Anderson took 199 iterations with Residual 1.18268377e-05
+Anderson took 99 iterations with Residual 2.11038151e-03
+Epoch: 29
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.59899356e-03
+Anderson took 19 iterations with Residual 9.54282874e-06
+Anderson took 16 iterations with Residual 9.44876199e-06
+Anderson took 17 iterations with Residual 9.60726951e-06
+Anderson took 18 iterations with Residual 9.43567983e-06
+Anderson took 10 iterations with Residual 9.21358453e-06
+Pred PSNR on Full Image:                     32.6377 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.62900060e-01
+
+
+Anderson took 49 iterations with Residual 9.99425729e-06
+Anderson took 99 iterations with Residual 1.79236140e-03
+Anderson took 199 iterations with Residual 1.05709510e-05
+Anderson took 99 iterations with Residual 1.99081518e-03
+Anderson took 56 iterations with Residual 9.97871604e-06
+Anderson took 99 iterations with Residual 2.09234219e-03
+Anderson took 42 iterations with Residual 9.56033151e-06
+Anderson took 99 iterations with Residual 1.79821489e-03
+Anderson took 40 iterations with Residual 9.95809449e-06
+Anderson took 99 iterations with Residual 1.49111653e-03
+Anderson took 41 iterations with Residual 9.76988114e-06
+Anderson took 99 iterations with Residual 1.49716421e-03
+Anderson took 41 iterations with Residual 9.49586580e-06
+Anderson took 99 iterations with Residual 1.73338368e-03
+Anderson took 42 iterations with Residual 9.52497599e-06
+Anderson took 99 iterations with Residual 1.52306269e-03
+Anderson took 43 iterations with Residual 9.64898584e-06
+Anderson took 99 iterations with Residual 1.31818999e-03
+Anderson took 49 iterations with Residual 9.88018864e-06
+Anderson took 99 iterations with Residual 1.65246878e-03
+Anderson took 61 iterations with Residual 9.82940967e-06
+Anderson took 99 iterations with Residual 1.85215304e-03
+Anderson took 44 iterations with Residual 9.64884309e-06
+Anderson took 99 iterations with Residual 1.70188419e-03
+Anderson took 43 iterations with Residual 9.75030102e-06
+Anderson took 99 iterations with Residual 1.68980826e-03
+Anderson took 69 iterations with Residual 9.98084134e-06
+Anderson took 99 iterations with Residual 2.42693189e-03
+Anderson took 58 iterations with Residual 9.88464794e-06
+Anderson took 99 iterations with Residual 1.60024429e-03
+Anderson took 199 iterations with Residual 1.12192402e-05
+Anderson took 99 iterations with Residual 2.01707678e-03
+Anderson took 41 iterations with Residual 9.62175401e-06
+Anderson took 99 iterations with Residual 1.85902443e-03
+Anderson took 38 iterations with Residual 9.68056682e-06
+Anderson took 99 iterations with Residual 1.75832490e-03
+Anderson took 40 iterations with Residual 9.87841303e-06
+Anderson took 99 iterations with Residual 2.35527853e-03
+Anderson took 45 iterations with Residual 9.49863587e-06
+Anderson took 99 iterations with Residual 2.50111450e-03
+Anderson took 38 iterations with Residual 9.96498612e-06
+Anderson took 99 iterations with Residual 1.85098353e-03
+Anderson took 41 iterations with Residual 9.54752549e-06
+Anderson took 99 iterations with Residual 1.98911826e-03
+Anderson took 41 iterations with Residual 9.89255538e-06
+Anderson took 99 iterations with Residual 1.60078839e-03
+Epoch: 30
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60877410e-03
+Anderson took 18 iterations with Residual 9.83617163e-06
+Anderson took 15 iterations with Residual 9.96101472e-06
+Anderson took 17 iterations with Residual 9.06432086e-06
+Anderson took 17 iterations with Residual 9.67668865e-06
+Anderson took 9 iterations with Residual 9.80060083e-06
+Pred PSNR on Full Image:                     32.6386 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.56596926e-01
+
+
+Anderson took 42 iterations with Residual 9.68440566e-06
+Anderson took 99 iterations with Residual 1.70511114e-03
+Anderson took 47 iterations with Residual 9.90259701e-06
+Anderson took 99 iterations with Residual 1.87886734e-03
+Anderson took 45 iterations with Residual 9.84075870e-06
+Anderson took 99 iterations with Residual 1.58178497e-03
+Anderson took 41 iterations with Residual 9.75629525e-06
+Anderson took 99 iterations with Residual 1.46641402e-03
+Anderson took 43 iterations with Residual 9.63601893e-06
+Anderson took 99 iterations with Residual 1.91988016e-03
+Anderson took 42 iterations with Residual 9.61541434e-06
+Anderson took 99 iterations with Residual 1.56069815e-03
+Anderson took 39 iterations with Residual 9.74807310e-06
+Anderson took 99 iterations with Residual 1.94532398e-03
+Anderson took 46 iterations with Residual 9.92806248e-06
+Anderson took 99 iterations with Residual 2.36024487e-03
+Anderson took 41 iterations with Residual 9.69247873e-06
+Anderson took 99 iterations with Residual 1.75985209e-03
+Anderson took 41 iterations with Residual 9.64929694e-06
+Anderson took 99 iterations with Residual 2.04450188e-03
+Anderson took 41 iterations with Residual 9.80445766e-06
+Anderson took 99 iterations with Residual 2.19608400e-03
+Anderson took 45 iterations with Residual 9.92842525e-06
+Anderson took 99 iterations with Residual 1.63188289e-03
+Anderson took 55 iterations with Residual 9.83436005e-06
+Anderson took 99 iterations with Residual 1.99416428e-03
+Anderson took 50 iterations with Residual 9.94491218e-06
+Anderson took 99 iterations with Residual 1.74461099e-03
+Anderson took 44 iterations with Residual 9.82528621e-06
+Anderson took 99 iterations with Residual 1.58916913e-03
+Anderson took 182 iterations with Residual 9.99357162e-06
+Anderson took 99 iterations with Residual 1.94985428e-03
+Anderson took 97 iterations with Residual 9.96245579e-06
+Anderson took 99 iterations with Residual 2.03266710e-03
+Anderson took 61 iterations with Residual 9.87309639e-06
+Anderson took 99 iterations with Residual 1.73246272e-03
+Anderson took 54 iterations with Residual 9.87635469e-06
+Anderson took 99 iterations with Residual 2.47230565e-03
+Anderson took 48 iterations with Residual 9.75209568e-06
+Anderson took 99 iterations with Residual 2.07511234e-03
+Anderson took 42 iterations with Residual 9.98012601e-06
+Anderson took 99 iterations with Residual 1.87998235e-03
+Anderson took 44 iterations with Residual 9.86441413e-06
+Anderson took 99 iterations with Residual 1.95412788e-03
+Anderson took 42 iterations with Residual 9.90012455e-06
+Anderson took 99 iterations with Residual 2.11223841e-03
+Epoch: 31
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60269615e-03
+Anderson took 19 iterations with Residual 9.14047799e-06
+Anderson took 16 iterations with Residual 9.07066864e-06
+Anderson took 17 iterations with Residual 9.48353972e-06
+Anderson took 18 iterations with Residual 8.95545727e-06
+Anderson took 9 iterations with Residual 9.91906397e-06
+Pred PSNR on Full Image:                     32.6380 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.56603591e-01
+
+
+Anderson took 43 iterations with Residual 9.61566610e-06
+Anderson took 99 iterations with Residual 1.97494896e-03
+Anderson took 40 iterations with Residual 9.59388866e-06
+Anderson took 99 iterations with Residual 1.50094758e-03
+Anderson took 43 iterations with Residual 9.91037436e-06
+Anderson took 99 iterations with Residual 2.19355491e-03
+Anderson took 42 iterations with Residual 9.76719030e-06
+Anderson took 99 iterations with Residual 2.13531821e-03
+Anderson took 40 iterations with Residual 9.62182606e-06
+Anderson took 99 iterations with Residual 1.89202127e-03
+Anderson took 42 iterations with Residual 9.88199961e-06
+Anderson took 99 iterations with Residual 2.04389987e-03
+Anderson took 46 iterations with Residual 9.60384331e-06
+Anderson took 99 iterations with Residual 2.41882170e-03
+Anderson took 55 iterations with Residual 9.99701993e-06
+Anderson took 99 iterations with Residual 1.91752584e-03
+Anderson took 95 iterations with Residual 9.97449261e-06
+Anderson took 99 iterations with Residual 2.23892416e-03
+Anderson took 57 iterations with Residual 9.84737620e-06
+Anderson took 99 iterations with Residual 2.17243530e-03
+Anderson took 196 iterations with Residual 9.96687058e-06
+Anderson took 99 iterations with Residual 2.22656845e-03
+Anderson took 44 iterations with Residual 9.60930518e-06
+Anderson took 99 iterations with Residual 1.99748991e-03
+Anderson took 41 iterations with Residual 9.99805413e-06
+Anderson took 99 iterations with Residual 1.61461680e-03
+Anderson took 44 iterations with Residual 9.92120795e-06
+Anderson took 99 iterations with Residual 1.70375407e-03
+Anderson took 139 iterations with Residual 9.99276927e-06
+Anderson took 99 iterations with Residual 1.88574804e-03
+Anderson took 47 iterations with Residual 9.83692628e-06
+Anderson took 99 iterations with Residual 1.70517757e-03
+Anderson took 43 iterations with Residual 9.83586345e-06
+Anderson took 99 iterations with Residual 2.07776452e-03
+Anderson took 42 iterations with Residual 9.77146413e-06
+Anderson took 99 iterations with Residual 2.10976523e-03
+Anderson took 145 iterations with Residual 9.93989065e-06
+Anderson took 99 iterations with Residual 2.00365300e-03
+Anderson took 51 iterations with Residual 9.84395634e-06
+Anderson took 99 iterations with Residual 2.46718063e-03
+Anderson took 50 iterations with Residual 9.89149605e-06
+Anderson took 99 iterations with Residual 2.16802952e-03
+Anderson took 59 iterations with Residual 9.88841068e-06
+Anderson took 99 iterations with Residual 1.82083504e-03
+Anderson took 46 iterations with Residual 9.77121067e-06
+Anderson took 99 iterations with Residual 1.65191809e-03
+Epoch: 32
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.59648023e-03
+Anderson took 19 iterations with Residual 9.25818818e-06
+Anderson took 16 iterations with Residual 9.16141443e-06
+Anderson took 17 iterations with Residual 9.34189090e-06
+Anderson took 18 iterations with Residual 9.23072292e-06
+Anderson took 9 iterations with Residual 9.94083162e-06
+Pred PSNR on Full Image:                     32.6370 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.44248943e-01
+
+
+Anderson took 41 iterations with Residual 9.52614952e-06
+Anderson took 99 iterations with Residual 1.26547345e-03
+Anderson took 39 iterations with Residual 9.92351515e-06
+Anderson took 99 iterations with Residual 1.49068112e-03
+Anderson took 42 iterations with Residual 9.97255258e-06
+Anderson took 99 iterations with Residual 1.63382335e-03
+Anderson took 39 iterations with Residual 9.84514859e-06
+Anderson took 99 iterations with Residual 1.49485980e-03
+Anderson took 41 iterations with Residual 9.99913677e-06
+Anderson took 99 iterations with Residual 1.56370665e-03
+Anderson took 43 iterations with Residual 9.77285088e-06
+Anderson took 99 iterations with Residual 2.20289160e-03
+Anderson took 47 iterations with Residual 9.89908341e-06
+Anderson took 99 iterations with Residual 2.02063993e-03
+Anderson took 145 iterations with Residual 9.99116441e-06
+Anderson took 99 iterations with Residual 2.04057175e-03
+Anderson took 59 iterations with Residual 9.94797544e-06
+Anderson took 99 iterations with Residual 2.06189352e-03
+Anderson took 179 iterations with Residual 9.89796809e-06
+Anderson took 99 iterations with Residual 2.24369993e-03
+Anderson took 44 iterations with Residual 9.75293519e-06
+Anderson took 99 iterations with Residual 2.04986448e-03
+Anderson took 41 iterations with Residual 9.55706646e-06
+Anderson took 99 iterations with Residual 2.07385957e-03
+Anderson took 42 iterations with Residual 9.77358798e-06
+Anderson took 99 iterations with Residual 1.62371477e-03
+Anderson took 48 iterations with Residual 9.95141258e-06
+Anderson took 99 iterations with Residual 1.99488930e-03
+Anderson took 54 iterations with Residual 9.89268146e-06
+Anderson took 99 iterations with Residual 1.97048710e-03
+Anderson took 47 iterations with Residual 9.86921119e-06
+Anderson took 99 iterations with Residual 1.79935048e-03
+Anderson took 43 iterations with Residual 9.57706038e-06
+Anderson took 99 iterations with Residual 2.10519950e-03
+Anderson took 41 iterations with Residual 9.61152566e-06
+Anderson took 99 iterations with Residual 1.80528480e-03
+Anderson took 39 iterations with Residual 9.79912281e-06
+Anderson took 99 iterations with Residual 2.08268433e-03
+Anderson took 40 iterations with Residual 9.97865154e-06
+Anderson took 99 iterations with Residual 2.20042019e-03
+Anderson took 40 iterations with Residual 9.66504767e-06
+Anderson took 99 iterations with Residual 2.43260179e-03
+Anderson took 42 iterations with Residual 9.49612122e-06
+Anderson took 99 iterations with Residual 1.89232196e-03
+Anderson took 177 iterations with Residual 9.94814498e-06
+Anderson took 99 iterations with Residual 2.12621825e-03
+Epoch: 33
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60021533e-03
+Anderson took 19 iterations with Residual 9.12748137e-06
+Anderson took 16 iterations with Residual 9.08319755e-06
+Anderson took 17 iterations with Residual 9.36477522e-06
+Anderson took 18 iterations with Residual 9.14520855e-06
+Anderson took 9 iterations with Residual 9.88173233e-06
+Pred PSNR on Full Image:                     32.6362 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.54462683e-01
+
+
+Anderson took 47 iterations with Residual 9.70744800e-06
+Anderson took 99 iterations with Residual 2.03743182e-03
+Anderson took 133 iterations with Residual 9.94393472e-06
+Anderson took 99 iterations with Residual 1.68095092e-03
+Anderson took 48 iterations with Residual 9.94957391e-06
+Anderson took 99 iterations with Residual 1.66491812e-03
+Anderson took 49 iterations with Residual 9.77334940e-06
+Anderson took 99 iterations with Residual 1.62157576e-03
+Anderson took 45 iterations with Residual 9.92243607e-06
+Anderson took 99 iterations with Residual 1.43424827e-03
+Anderson took 44 iterations with Residual 9.74401097e-06
+Anderson took 99 iterations with Residual 1.42828286e-03
+Anderson took 48 iterations with Residual 9.94449698e-06
+Anderson took 99 iterations with Residual 1.71215007e-03
+Anderson took 52 iterations with Residual 9.67685700e-06
+Anderson took 99 iterations with Residual 2.56292962e-03
+Anderson took 43 iterations with Residual 9.71927791e-06
+Anderson took 99 iterations with Residual 2.19854668e-03
+Anderson took 44 iterations with Residual 9.94801349e-06
+Anderson took 99 iterations with Residual 2.02143893e-03
+Anderson took 75 iterations with Residual 9.99125108e-06
+Anderson took 99 iterations with Residual 2.68600136e-03
+Anderson took 59 iterations with Residual 9.90391871e-06
+Anderson took 99 iterations with Residual 2.22000829e-03
+Anderson took 45 iterations with Residual 9.72341509e-06
+Anderson took 99 iterations with Residual 1.71324955e-03
+Anderson took 44 iterations with Residual 9.87890108e-06
+Anderson took 99 iterations with Residual 1.82887187e-03
+Anderson took 47 iterations with Residual 9.80620703e-06
+Anderson took 99 iterations with Residual 1.70707103e-03
+Anderson took 46 iterations with Residual 9.83872058e-06
+Anderson took 99 iterations with Residual 1.87564403e-03
+Anderson took 45 iterations with Residual 9.71066336e-06
+Anderson took 99 iterations with Residual 1.68264933e-03
+Anderson took 198 iterations with Residual 9.94481041e-06
+Anderson took 99 iterations with Residual 1.65768113e-03
+Anderson took 59 iterations with Residual 9.99221719e-06
+Anderson took 99 iterations with Residual 1.67004973e-03
+Anderson took 54 iterations with Residual 9.88917681e-06
+Anderson took 99 iterations with Residual 1.33281412e-03
+Anderson took 47 iterations with Residual 9.71139891e-06
+Anderson took 99 iterations with Residual 1.41274533e-03
+Anderson took 47 iterations with Residual 9.99025114e-06
+Anderson took 99 iterations with Residual 2.22064397e-03
+Anderson took 41 iterations with Residual 9.86751667e-06
+Anderson took 99 iterations with Residual 1.91463094e-03
+Epoch: 34
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60158322e-03
+Anderson took 19 iterations with Residual 9.19998264e-06
+Anderson took 16 iterations with Residual 9.14338275e-06
+Anderson took 17 iterations with Residual 9.37906903e-06
+Anderson took 18 iterations with Residual 9.22654314e-06
+Anderson took 9 iterations with Residual 9.91137354e-06
+Pred PSNR on Full Image:                     32.6356 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.52766329e-01
+
+
+Anderson took 42 iterations with Residual 9.74073737e-06
+Anderson took 99 iterations with Residual 1.92637312e-03
+Anderson took 42 iterations with Residual 9.64226174e-06
+Anderson took 99 iterations with Residual 2.08434907e-03
+Anderson took 46 iterations with Residual 9.78927978e-06
+Anderson took 99 iterations with Residual 2.35100719e-03
+Anderson took 47 iterations with Residual 9.91371412e-06
+Anderson took 99 iterations with Residual 2.20227705e-03
+Anderson took 50 iterations with Residual 9.86186513e-06
+Anderson took 99 iterations with Residual 2.31045985e-03
+Anderson took 45 iterations with Residual 9.66038778e-06
+Anderson took 99 iterations with Residual 2.58871937e-03
+Anderson took 41 iterations with Residual 9.49744224e-06
+Anderson took 99 iterations with Residual 1.88036196e-03
+Anderson took 40 iterations with Residual 9.85252371e-06
+Anderson took 99 iterations with Residual 2.03123806e-03
+Anderson took 42 iterations with Residual 9.90362483e-06
+Anderson took 99 iterations with Residual 1.77652745e-03
+Anderson took 199 iterations with Residual 1.19255039e-05
+Anderson took 99 iterations with Residual 1.78479018e-03
+Anderson took 82 iterations with Residual 9.96707213e-06
+Anderson took 99 iterations with Residual 1.80038665e-03
+Anderson took 44 iterations with Residual 9.96034901e-06
+Anderson took 99 iterations with Residual 1.59823394e-03
+Anderson took 50 iterations with Residual 9.93176626e-06
+Anderson took 99 iterations with Residual 1.75601272e-03
+Anderson took 69 iterations with Residual 9.88348013e-06
+Anderson took 99 iterations with Residual 2.03530199e-03
+Anderson took 45 iterations with Residual 9.68267976e-06
+Anderson took 99 iterations with Residual 2.12752987e-03
+Anderson took 42 iterations with Residual 9.56563486e-06
+Anderson took 99 iterations with Residual 1.85953803e-03
+Anderson took 42 iterations with Residual 9.64140207e-06
+Anderson took 99 iterations with Residual 1.60042356e-03
+Anderson took 45 iterations with Residual 9.69407430e-06
+Anderson took 99 iterations with Residual 1.97638789e-03
+Anderson took 181 iterations with Residual 9.95665652e-06
+Anderson took 99 iterations with Residual 1.97464574e-03
+Anderson took 43 iterations with Residual 9.68755014e-06
+Anderson took 99 iterations with Residual 1.67875069e-03
+Anderson took 41 iterations with Residual 9.97050455e-06
+Anderson took 99 iterations with Residual 1.86276822e-03
+Anderson took 40 iterations with Residual 9.97381912e-06
+Anderson took 99 iterations with Residual 1.61608609e-03
+Anderson took 42 iterations with Residual 9.67661195e-06
+Anderson took 99 iterations with Residual 1.91816051e-03
+Epoch: 35
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.59903941e-03
+Anderson took 19 iterations with Residual 9.64909482e-06
+Anderson took 16 iterations with Residual 9.54637280e-06
+Anderson took 17 iterations with Residual 9.70949949e-06
+Anderson took 18 iterations with Residual 9.77410924e-06
+Anderson took 10 iterations with Residual 9.32269668e-06
+Pred PSNR on Full Image:                     32.6358 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.59342286e-01
+
+
+Anderson took 160 iterations with Residual 9.89886202e-06
+Anderson took 99 iterations with Residual 1.69404574e-03
+Anderson took 43 iterations with Residual 9.74815229e-06
+Anderson took 99 iterations with Residual 1.79301587e-03
+Anderson took 42 iterations with Residual 9.80345854e-06
+Anderson took 99 iterations with Residual 2.19903093e-03
+Anderson took 42 iterations with Residual 9.90519175e-06
+Anderson took 99 iterations with Residual 1.73719873e-03
+Anderson took 42 iterations with Residual 9.71684142e-06
+Anderson took 99 iterations with Residual 1.85284734e-03
+Anderson took 144 iterations with Residual 9.81752620e-06
+Anderson took 99 iterations with Residual 1.61305535e-03
+Anderson took 46 iterations with Residual 9.82244222e-06
+Anderson took 99 iterations with Residual 1.71750459e-03
+Anderson took 42 iterations with Residual 9.97310564e-06
+Anderson took 99 iterations with Residual 1.67713604e-03
+Anderson took 43 iterations with Residual 9.69079265e-06
+Anderson took 99 iterations with Residual 2.11809939e-03
+Anderson took 44 iterations with Residual 9.68594471e-06
+Anderson took 99 iterations with Residual 2.28274182e-03
+Anderson took 43 iterations with Residual 9.91443320e-06
+Anderson took 99 iterations with Residual 1.67997672e-03
+Anderson took 41 iterations with Residual 9.93897329e-06
+Anderson took 99 iterations with Residual 1.64458829e-03
+Anderson took 199 iterations with Residual 1.75540874e-05
+Anderson took 99 iterations with Residual 1.74878207e-03
+Anderson took 72 iterations with Residual 9.80717555e-06
+Anderson took 99 iterations with Residual 1.77025807e-03
+Anderson took 40 iterations with Residual 9.86309864e-06
+Anderson took 99 iterations with Residual 1.73804449e-03
+Anderson took 40 iterations with Residual 9.87439612e-06
+Anderson took 99 iterations with Residual 1.99641821e-03
+Anderson took 40 iterations with Residual 9.66141706e-06
+Anderson took 99 iterations with Residual 1.98176804e-03
+Anderson took 40 iterations with Residual 9.54349838e-06
+Anderson took 99 iterations with Residual 1.71170065e-03
+Anderson took 45 iterations with Residual 9.91878036e-06
+Anderson took 99 iterations with Residual 2.44174769e-03
+Anderson took 45 iterations with Residual 9.99028598e-06
+Anderson took 99 iterations with Residual 2.16435137e-03
+Anderson took 158 iterations with Residual 9.98441576e-06
+Anderson took 99 iterations with Residual 1.81098058e-03
+Anderson took 48 iterations with Residual 9.81804192e-06
+Anderson took 99 iterations with Residual 1.90245531e-03
+Anderson took 45 iterations with Residual 9.79301685e-06
+Anderson took 99 iterations with Residual 2.13116320e-03
+Epoch: 36
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.59908867e-03
+Anderson took 19 iterations with Residual 9.09487875e-06
+Anderson took 16 iterations with Residual 9.08635746e-06
+Anderson took 17 iterations with Residual 9.27457628e-06
+Anderson took 18 iterations with Residual 9.19048239e-06
+Anderson took 9 iterations with Residual 9.91973908e-06
+Pred PSNR on Full Image:                     32.6361 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.57900517e-01
+
+
+Anderson took 53 iterations with Residual 9.93155482e-06
+Anderson took 99 iterations with Residual 1.86435758e-03
+Anderson took 177 iterations with Residual 9.84006973e-06
+Anderson took 99 iterations with Residual 1.79555136e-03
+Anderson took 46 iterations with Residual 9.90302336e-06
+Anderson took 99 iterations with Residual 2.42249258e-03
+Anderson took 46 iterations with Residual 9.62182426e-06
+Anderson took 99 iterations with Residual 2.11987366e-03
+Anderson took 40 iterations with Residual 9.55937622e-06
+Anderson took 99 iterations with Residual 1.97683841e-03
+Anderson took 39 iterations with Residual 9.79285042e-06
+Anderson took 99 iterations with Residual 1.75813254e-03
+Anderson took 39 iterations with Residual 9.83698572e-06
+Anderson took 99 iterations with Residual 1.52352573e-03
+Anderson took 39 iterations with Residual 9.58808796e-06
+Anderson took 99 iterations with Residual 1.63497468e-03
+Anderson took 40 iterations with Residual 9.50232235e-06
+Anderson took 99 iterations with Residual 2.04449767e-03
+Anderson took 39 iterations with Residual 9.84094692e-06
+Anderson took 99 iterations with Residual 1.92535835e-03
+Anderson took 40 iterations with Residual 9.61765652e-06
+Anderson took 99 iterations with Residual 1.59141945e-03
+Anderson took 41 iterations with Residual 9.79198486e-06
+Anderson took 99 iterations with Residual 2.06438826e-03
+Anderson took 41 iterations with Residual 9.94501645e-06
+Anderson took 99 iterations with Residual 2.12635277e-03
+Anderson took 199 iterations with Residual 1.55765067e-05
+Anderson took 99 iterations with Residual 2.25840251e-03
+Anderson took 89 iterations with Residual 9.92219894e-06
+Anderson took 99 iterations with Residual 2.03189617e-03
+Anderson took 47 iterations with Residual 9.72431268e-06
+Anderson took 99 iterations with Residual 2.05260659e-03
+Anderson took 45 iterations with Residual 9.67089028e-06
+Anderson took 99 iterations with Residual 2.16033559e-03
+Anderson took 41 iterations with Residual 9.60570794e-06
+Anderson took 99 iterations with Residual 1.96745271e-03
+Anderson took 40 iterations with Residual 9.98005523e-06
+Anderson took 99 iterations with Residual 1.43816554e-03
+Anderson took 41 iterations with Residual 9.95366222e-06
+Anderson took 99 iterations with Residual 1.98933706e-03
+Anderson took 42 iterations with Residual 9.54023259e-06
+Anderson took 99 iterations with Residual 1.53193871e-03
+Anderson took 43 iterations with Residual 9.97185479e-06
+Anderson took 99 iterations with Residual 1.97752326e-03
+Anderson took 52 iterations with Residual 9.94623478e-06
+Anderson took 99 iterations with Residual 1.76501047e-03
+Epoch: 37
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60017045e-03
+Anderson took 19 iterations with Residual 9.74641516e-06
+Anderson took 16 iterations with Residual 9.58627236e-06
+Anderson took 18 iterations with Residual 9.06616616e-06
+Anderson took 18 iterations with Residual 9.98321062e-06
+Anderson took 10 iterations with Residual 9.30280781e-06
+Pred PSNR on Full Image:                     32.6331 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.48816945e-01
+
+
+Anderson took 190 iterations with Residual 9.82192836e-06
+Anderson took 99 iterations with Residual 1.88435245e-03
+Anderson took 42 iterations with Residual 9.64298758e-06
+Anderson took 99 iterations with Residual 1.82304836e-03
+Anderson took 42 iterations with Residual 9.82984875e-06
+Anderson took 99 iterations with Residual 1.88013677e-03
+Anderson took 199 iterations with Residual 1.16200959e-05
+Anderson took 99 iterations with Residual 1.95604182e-03
+Anderson took 50 iterations with Residual 9.96842746e-06
+Anderson took 99 iterations with Residual 1.80500330e-03
+Anderson took 45 iterations with Residual 9.79652287e-06
+Anderson took 99 iterations with Residual 2.38272374e-03
+Anderson took 43 iterations with Residual 9.69397449e-06
+Anderson took 99 iterations with Residual 2.02607735e-03
+Anderson took 40 iterations with Residual 9.94645037e-06
+Anderson took 99 iterations with Residual 2.35657660e-03
+Anderson took 42 iterations with Residual 9.83854242e-06
+Anderson took 99 iterations with Residual 2.80802689e-03
+Anderson took 39 iterations with Residual 9.76543232e-06
+Anderson took 99 iterations with Residual 1.70107860e-03
+Anderson took 40 iterations with Residual 9.80520076e-06
+Anderson took 99 iterations with Residual 1.62183010e-03
+Anderson took 41 iterations with Residual 9.75729080e-06
+Anderson took 99 iterations with Residual 1.59708212e-03
+Anderson took 42 iterations with Residual 9.54037508e-06
+Anderson took 99 iterations with Residual 1.88753779e-03
+Anderson took 42 iterations with Residual 9.87315407e-06
+Anderson took 99 iterations with Residual 1.48296513e-03
+Anderson took 131 iterations with Residual 9.96369798e-06
+Anderson took 99 iterations with Residual 1.98896596e-03
+Anderson took 43 iterations with Residual 9.80451046e-06
+Anderson took 99 iterations with Residual 1.68763174e-03
+Anderson took 49 iterations with Residual 9.88668346e-06
+Anderson took 99 iterations with Residual 1.90314487e-03
+Anderson took 58 iterations with Residual 9.97758962e-06
+Anderson took 99 iterations with Residual 1.70407036e-03
+Anderson took 48 iterations with Residual 9.99942294e-06
+Anderson took 99 iterations with Residual 1.81305272e-03
+Anderson took 51 iterations with Residual 9.90370244e-06
+Anderson took 99 iterations with Residual 1.76909051e-03
+Anderson took 107 iterations with Residual 9.94845715e-06
+Anderson took 99 iterations with Residual 2.05542883e-03
+Anderson took 44 iterations with Residual 9.63339360e-06
+Anderson took 99 iterations with Residual 1.56445065e-03
+Anderson took 45 iterations with Residual 9.69544709e-06
+Anderson took 99 iterations with Residual 1.95239174e-03
+Epoch: 38
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.59488895e-03
+Anderson took 19 iterations with Residual 9.21214971e-06
+Anderson took 16 iterations with Residual 9.15107905e-06
+Anderson took 17 iterations with Residual 9.56144049e-06
+Anderson took 18 iterations with Residual 9.28168416e-06
+Anderson took 9 iterations with Residual 9.87250686e-06
+Pred PSNR on Full Image:                     32.6345 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.54854609e-01
+
+
+Anderson took 46 iterations with Residual 9.88346780e-06
+Anderson took 99 iterations with Residual 2.07558041e-03
+Anderson took 47 iterations with Residual 9.73026780e-06
+Anderson took 99 iterations with Residual 1.66511560e-03
+Anderson took 51 iterations with Residual 9.78876782e-06
+Anderson took 99 iterations with Residual 2.21810722e-03
+Anderson took 50 iterations with Residual 9.90360147e-06
+Anderson took 99 iterations with Residual 1.85422924e-03
+Anderson took 50 iterations with Residual 9.92520815e-06
+Anderson took 99 iterations with Residual 1.87483715e-03
+Anderson took 199 iterations with Residual 1.33199075e-05
+Anderson took 99 iterations with Residual 1.79365030e-03
+Anderson took 53 iterations with Residual 9.97410148e-06
+Anderson took 99 iterations with Residual 1.56682180e-03
+Anderson took 42 iterations with Residual 9.67284893e-06
+Anderson took 99 iterations with Residual 1.95592480e-03
+Anderson took 40 iterations with Residual 9.97206449e-06
+Anderson took 99 iterations with Residual 1.59679510e-03
+Anderson took 43 iterations with Residual 9.56410920e-06
+Anderson took 99 iterations with Residual 2.21950905e-03
+Anderson took 46 iterations with Residual 9.96845229e-06
+Anderson took 99 iterations with Residual 2.59616379e-03
+Anderson took 42 iterations with Residual 9.80686216e-06
+Anderson took 99 iterations with Residual 2.43398713e-03
+Anderson took 47 iterations with Residual 9.80584234e-06
+Anderson took 99 iterations with Residual 2.31521105e-03
+Anderson took 132 iterations with Residual 9.95625067e-06
+Anderson took 99 iterations with Residual 2.51280939e-03
+Anderson took 43 iterations with Residual 9.73379053e-06
+Anderson took 99 iterations with Residual 2.14340912e-03
+Anderson took 43 iterations with Residual 9.53485541e-06
+Anderson took 99 iterations with Residual 1.91563898e-03
+Anderson took 43 iterations with Residual 9.64550884e-06
+Anderson took 99 iterations with Residual 2.13180070e-03
+Anderson took 42 iterations with Residual 9.99247062e-06
+Anderson took 99 iterations with Residual 1.92217458e-03
+Anderson took 41 iterations with Residual 9.70728775e-06
+Anderson took 99 iterations with Residual 1.94277406e-03
+Anderson took 43 iterations with Residual 9.72754171e-06
+Anderson took 99 iterations with Residual 1.76640264e-03
+Anderson took 45 iterations with Residual 9.73910466e-06
+Anderson took 99 iterations with Residual 1.37744582e-03
+Anderson took 50 iterations with Residual 9.82865862e-06
+Anderson took 99 iterations with Residual 1.84025934e-03
+Anderson took 199 iterations with Residual 1.56159609e-05
+Anderson took 99 iterations with Residual 1.90714702e-03
+Epoch: 39
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.59320458e-03
+Anderson took 19 iterations with Residual 9.30345601e-06
+Anderson took 16 iterations with Residual 9.20964309e-06
+Anderson took 17 iterations with Residual 9.59665990e-06
+Anderson took 18 iterations with Residual 9.39166400e-06
+Anderson took 9 iterations with Residual 9.96391121e-06
+Pred PSNR on Full Image:                     32.6347 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.48566496e-01
+
+
+Anderson took 62 iterations with Residual 9.82529862e-06
+Anderson took 99 iterations with Residual 1.91522883e-03
+Anderson took 43 iterations with Residual 9.81763083e-06
+Anderson took 99 iterations with Residual 1.52146923e-03
+Anderson took 43 iterations with Residual 9.61274745e-06
+Anderson took 99 iterations with Residual 1.68178068e-03
+Anderson took 42 iterations with Residual 9.87449310e-06
+Anderson took 99 iterations with Residual 2.09219003e-03
+Anderson took 54 iterations with Residual 9.86670233e-06
+Anderson took 99 iterations with Residual 2.11175561e-03
+Anderson took 58 iterations with Residual 9.93943918e-06
+Anderson took 99 iterations with Residual 1.62267869e-03
+Anderson took 46 iterations with Residual 9.82069613e-06
+Anderson took 99 iterations with Residual 1.74018385e-03
+Anderson took 44 iterations with Residual 9.57940227e-06
+Anderson took 99 iterations with Residual 1.81169453e-03
+Anderson took 46 iterations with Residual 9.67180832e-06
+Anderson took 99 iterations with Residual 2.58689793e-03
+Anderson took 52 iterations with Residual 9.85481105e-06
+Anderson took 99 iterations with Residual 2.05545460e-03
+Anderson took 111 iterations with Residual 9.93099428e-06
+Anderson took 99 iterations with Residual 2.03150377e-03
+Anderson took 45 iterations with Residual 9.70020254e-06
+Anderson took 99 iterations with Residual 1.80419941e-03
+Anderson took 43 iterations with Residual 9.80058004e-06
+Anderson took 99 iterations with Residual 1.78136339e-03
+Anderson took 42 iterations with Residual 9.57211773e-06
+Anderson took 99 iterations with Residual 2.11249911e-03
+Anderson took 41 iterations with Residual 9.88641394e-06
+Anderson took 99 iterations with Residual 2.21001870e-03
+Anderson took 45 iterations with Residual 9.69608079e-06
+Anderson took 99 iterations with Residual 2.43061127e-03
+Anderson took 39 iterations with Residual 9.67575482e-06
+Anderson took 99 iterations with Residual 2.68447129e-03
+Anderson took 43 iterations with Residual 9.67419852e-06
+Anderson took 99 iterations with Residual 1.74669953e-03
+Anderson took 41 iterations with Residual 9.67499809e-06
+Anderson took 99 iterations with Residual 1.89764428e-03
+Anderson took 43 iterations with Residual 9.80808654e-06
+Anderson took 99 iterations with Residual 2.15274516e-03
+Anderson took 50 iterations with Residual 9.87285184e-06
+Anderson took 99 iterations with Residual 1.95805019e-03
+Anderson took 191 iterations with Residual 9.97030931e-06
+Anderson took 99 iterations with Residual 1.92256588e-03
+Anderson took 51 iterations with Residual 9.99776632e-06
+Anderson took 99 iterations with Residual 2.39646102e-03
+Epoch: 40
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.59373904e-03
+Anderson took 19 iterations with Residual 9.57643922e-06
+Anderson took 16 iterations with Residual 9.43479322e-06
+Anderson took 17 iterations with Residual 9.96799805e-06
+Anderson took 18 iterations with Residual 9.70535530e-06
+Anderson took 10 iterations with Residual 9.29102134e-06
+Pred PSNR on Full Image:                     32.6343 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.53787832e-01
+
+
+Anderson took 42 iterations with Residual 9.92139721e-06
+Anderson took 99 iterations with Residual 1.76035858e-03
+Anderson took 47 iterations with Residual 9.85140603e-06
+Anderson took 99 iterations with Residual 2.44832531e-03
+Anderson took 42 iterations with Residual 9.93515863e-06
+Anderson took 99 iterations with Residual 1.77558794e-03
+Anderson took 140 iterations with Residual 9.98670293e-06
+Anderson took 99 iterations with Residual 1.70442555e-03
+Anderson took 52 iterations with Residual 9.92241802e-06
+Anderson took 99 iterations with Residual 1.79536541e-03
+Anderson took 50 iterations with Residual 9.97345478e-06
+Anderson took 99 iterations with Residual 2.06469100e-03
+Anderson took 51 iterations with Residual 9.85682720e-06
+Anderson took 99 iterations with Residual 1.82396272e-03
+Anderson took 145 iterations with Residual 9.98372521e-06
+Anderson took 99 iterations with Residual 2.30368859e-03
+Anderson took 42 iterations with Residual 9.62111189e-06
+Anderson took 99 iterations with Residual 2.31212974e-03
+Anderson took 41 iterations with Residual 9.98467310e-06
+Anderson took 99 iterations with Residual 1.79656843e-03
+Anderson took 44 iterations with Residual 9.83903525e-06
+Anderson took 99 iterations with Residual 2.19449321e-03
+Anderson took 49 iterations with Residual 9.79907930e-06
+Anderson took 99 iterations with Residual 2.06290411e-03
+Anderson took 51 iterations with Residual 9.78326175e-06
+Anderson took 99 iterations with Residual 2.42555718e-03
+Anderson took 44 iterations with Residual 9.86180641e-06
+Anderson took 99 iterations with Residual 1.79081343e-03
+Anderson took 44 iterations with Residual 9.61094674e-06
+Anderson took 99 iterations with Residual 1.86078056e-03
+Anderson took 43 iterations with Residual 9.68866195e-06
+Anderson took 99 iterations with Residual 1.73010756e-03
+Anderson took 43 iterations with Residual 9.79332759e-06
+Anderson took 99 iterations with Residual 1.62926309e-03
+Anderson took 199 iterations with Residual 2.47542289e-05
+Anderson took 99 iterations with Residual 1.92950611e-03
+Anderson took 72 iterations with Residual 9.89369737e-06
+Anderson took 99 iterations with Residual 2.09096566e-03
+Anderson took 44 iterations with Residual 9.64354282e-06
+Anderson took 99 iterations with Residual 1.75619638e-03
+Anderson took 41 iterations with Residual 9.89552272e-06
+Anderson took 99 iterations with Residual 1.91993365e-03
+Anderson took 47 iterations with Residual 9.94732064e-06
+Anderson took 99 iterations with Residual 2.01088103e-03
+Anderson took 47 iterations with Residual 9.98476264e-06
+Anderson took 99 iterations with Residual 1.96384655e-03
+Epoch: 41
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60210591e-03
+Anderson took 19 iterations with Residual 9.58444739e-06
+Anderson took 16 iterations with Residual 9.44423956e-06
+Anderson took 18 iterations with Residual 9.14263840e-06
+Anderson took 18 iterations with Residual 9.68177874e-06
+Anderson took 10 iterations with Residual 9.28086111e-06
+Pred PSNR on Full Image:                     32.6341 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.61127160e-01
+
+
+Anderson took 199 iterations with Residual 1.03534811e-05
+Anderson took 99 iterations with Residual 2.17305238e-03
+Anderson took 199 iterations with Residual 1.01985708e-05
+Anderson took 99 iterations with Residual 1.87649346e-03
+Anderson took 43 iterations with Residual 9.83377985e-06
+Anderson took 99 iterations with Residual 2.09692033e-03
+Anderson took 42 iterations with Residual 9.77741484e-06
+Anderson took 99 iterations with Residual 2.11343877e-03
+Anderson took 40 iterations with Residual 9.84743765e-06
+Anderson took 99 iterations with Residual 2.41549666e-03
+Anderson took 40 iterations with Residual 9.68789132e-06
+Anderson took 99 iterations with Residual 1.78481238e-03
+Anderson took 40 iterations with Residual 9.53902709e-06
+Anderson took 99 iterations with Residual 1.90409871e-03
+Anderson took 40 iterations with Residual 9.75129461e-06
+Anderson took 99 iterations with Residual 1.50283666e-03
+Anderson took 40 iterations with Residual 9.56120220e-06
+Anderson took 99 iterations with Residual 2.11499436e-03
+Anderson took 41 iterations with Residual 9.98929497e-06
+Anderson took 99 iterations with Residual 2.23036305e-03
+Anderson took 44 iterations with Residual 9.84129378e-06
+Anderson took 99 iterations with Residual 1.57103099e-03
+Anderson took 48 iterations with Residual 9.94189614e-06
+Anderson took 99 iterations with Residual 1.90476304e-03
+Anderson took 45 iterations with Residual 9.64102840e-06
+Anderson took 99 iterations with Residual 1.43281341e-03
+Anderson took 41 iterations with Residual 9.71948963e-06
+Anderson took 99 iterations with Residual 1.64373168e-03
+Anderson took 41 iterations with Residual 9.84033299e-06
+Anderson took 99 iterations with Residual 2.11570461e-03
+Anderson took 40 iterations with Residual 9.53666048e-06
+Anderson took 99 iterations with Residual 2.09887269e-03
+Anderson took 41 iterations with Residual 9.75838756e-06
+Anderson took 99 iterations with Residual 1.99927360e-03
+Anderson took 199 iterations with Residual 1.43584042e-05
+Anderson took 99 iterations with Residual 1.93729069e-03
+Anderson took 47 iterations with Residual 9.71664999e-06
+Anderson took 99 iterations with Residual 2.35033089e-03
+Anderson took 44 iterations with Residual 9.76892475e-06
+Anderson took 99 iterations with Residual 2.33976199e-03
+Anderson took 45 iterations with Residual 9.55506780e-06
+Anderson took 99 iterations with Residual 2.41506802e-03
+Anderson took 43 iterations with Residual 9.60254119e-06
+Anderson took 99 iterations with Residual 1.99705129e-03
+Anderson took 48 iterations with Residual 9.92335635e-06
+Anderson took 99 iterations with Residual 2.05945265e-03
+Epoch: 42
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60581210e-03
+Anderson took 20 iterations with Residual 9.31020364e-06
+Anderson took 17 iterations with Residual 8.96481679e-06
+Anderson took 18 iterations with Residual 9.81356844e-06
+Anderson took 19 iterations with Residual 9.42390629e-06
+Anderson took 10 iterations with Residual 9.59117548e-06
+Pred PSNR on Full Image:                     32.6332 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.54566431e-01
+
+
+Anderson took 48 iterations with Residual 9.96108917e-06
+Anderson took 99 iterations with Residual 2.01193851e-03
+Anderson took 59 iterations with Residual 9.99465493e-06
+Anderson took 99 iterations with Residual 2.23417835e-03
+Anderson took 77 iterations with Residual 9.93449170e-06
+Anderson took 99 iterations with Residual 2.18431288e-03
+Anderson took 61 iterations with Residual 9.96578999e-06
+Anderson took 99 iterations with Residual 2.74450637e-03
+Anderson took 199 iterations with Residual 1.26589617e-05
+Anderson took 99 iterations with Residual 2.09433057e-03
+Anderson took 51 iterations with Residual 9.90487057e-06
+Anderson took 99 iterations with Residual 1.53592352e-03
+Anderson took 49 iterations with Residual 9.86281980e-06
+Anderson took 99 iterations with Residual 2.53673942e-03
+Anderson took 43 iterations with Residual 9.90967495e-06
+Anderson took 99 iterations with Residual 2.01695118e-03
+Anderson took 59 iterations with Residual 9.97983363e-06
+Anderson took 99 iterations with Residual 2.08794395e-03
+Anderson took 86 iterations with Residual 9.97219507e-06
+Anderson took 99 iterations with Residual 2.48088091e-03
+Anderson took 42 iterations with Residual 9.90031698e-06
+Anderson took 99 iterations with Residual 2.06203690e-03
+Anderson took 42 iterations with Residual 9.58589223e-06
+Anderson took 99 iterations with Residual 1.78663879e-03
+Anderson took 39 iterations with Residual 9.75757529e-06
+Anderson took 99 iterations with Residual 1.68528013e-03
+Anderson took 44 iterations with Residual 9.95193209e-06
+Anderson took 99 iterations with Residual 2.34039759e-03
+Anderson took 40 iterations with Residual 9.94433947e-06
+Anderson took 99 iterations with Residual 1.83714583e-03
+Anderson took 42 iterations with Residual 9.85203033e-06
+Anderson took 99 iterations with Residual 1.73326078e-03
+Anderson took 180 iterations with Residual 9.98183471e-06
+Anderson took 99 iterations with Residual 1.74661068e-03
+Anderson took 91 iterations with Residual 9.83550248e-06
+Anderson took 99 iterations with Residual 2.02927144e-03
+Anderson took 45 iterations with Residual 9.97376797e-06
+Anderson took 99 iterations with Residual 1.98848246e-03
+Anderson took 40 iterations with Residual 9.95614242e-06
+Anderson took 99 iterations with Residual 1.90530268e-03
+Anderson took 157 iterations with Residual 9.99471536e-06
+Anderson took 99 iterations with Residual 1.88831922e-03
+Anderson took 52 iterations with Residual 9.92973334e-06
+Anderson took 99 iterations with Residual 1.53091087e-03
+Anderson took 97 iterations with Residual 9.99005582e-06
+Anderson took 99 iterations with Residual 1.73567283e-03
+Epoch: 43
+LR=                                             [0.0001, 0.0001]
+Loss=                                          1.60672172e-03
+Anderson took 19 iterations with Residual 9.50099361e-06
+Anderson took 16 iterations with Residual 9.29824677e-06
+Anderson took 17 iterations with Residual 9.63791094e-06
+Anderson took 18 iterations with Residual 9.47635438e-06
+Anderson took 10 iterations with Residual 9.14917519e-06
+Pred PSNR on Full Image:                     32.6346 & SSIM:0.9092
+CNN PSNR on Full Image:                      32.6555 & SSIM:0.9099
+Data-Fidelity Value:                         1.54361455e-01
+
+
+Anderson took 45 iterations with Residual 9.92756752e-06
+Anderson took 99 iterations with Residual 1.95786921e-03
+Anderson took 43 iterations with Residual 9.59718610e-06
+Anderson took 99 iterations with Residual 1.49764518e-03
+Anderson took 42 iterations with Residual 9.84130169e-06
+Anderson took 99 iterations with Residual 2.16607064e-03

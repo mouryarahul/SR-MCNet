@@ -1,0 +1,3 @@
+Parameters:
+ Namespace(sigmaL=0.125, sigmaH=0.25, num_layers=4, bn=False, act='CELU', optimizer='adam', lr=0.001, decrease_lr=True, lr_step=50, lr_gamma=0.1, batch_size=256, num_epochs=100, num_workers=4, seed=321, use_gpu=True, datasets_dir='../Data/datasets_DNCNN', train_data='T91', eval_data='Set5', best_weight_file='', last_checkpoint='', output_dir='../Learned_DNCNN_Models/T91/RealSN_DnCNN/Layers_4/BN_False/CELU/sigma_0.12500_0.25000', verbose=False)
+Epoch No	LR            	Loss          	Val_Loss      	Noisy-PSNR	Noisy-SSIM	Pred-PSNR 	Pred-SSIM 

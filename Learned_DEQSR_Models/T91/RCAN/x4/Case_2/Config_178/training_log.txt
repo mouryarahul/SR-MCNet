@@ -1,0 +1,14 @@
+Parameters:
+ Namespace(case_num=2, config_num=178, interp_scale=4, interp_method='TORCH', fixed_dnn='RCAN', model='RCAN', n_resblocks=20, n_feats=64, res_scale=1, shift_mean=True, n_resgroups=10, reduction=16, rgb_range=255, n_colors=3, print_model=False, save_models=False, chop=False, self_ensemble=False, pre_train='../Learned_RCAN_Models/RCAN_BIX4.pt', alpha=1.0, epsilon=0.1, rho=1.0, tol=1e-05, maxiter_forward=200, miniter_forward=5, maxiter_backward=80, miniter_backward=5, beta=0.9, jac_regul=False, jac_loss_weight=1.0, jac_loss_freq=0.35, jac_incremental=3500, spectral_radius_mode=False, dncnn_frozen=False, dncnn_num_layers=6, dncnn_lip=0.9, dncnn_bias=False, dncnn_bn=False, dncnn_skip=False, dncnn_weight_file='../Learned_DNCNN_Models/T91/RealSN_DnCNN/Layers_6/BN_False/sigma_0.01250_0.02500/best.pth', dncnn_lr=0.0001, sigmaL=0.0625, sigmaH=0.125, optimizer='adam', lr=0.0001, alpha_lr=0.001, decrease_lr=True, lr_step=60, lr_gamma=0.1, clip_grad=False, clip_norm=0.01, batch_size=512, num_epochs=80, num_workers=4, datasets_dir='../Data/', train_data='T91', eval_data='Set5', last_checkpoint='', best_weight_file='../Learned_DEQSR_Models/T91/RCAN/x3/Case_2/Config_177/best.pth', output_dir='../Learned_DEQSR_Models', seed=123, use_gpu=True, verbose=True, verbose2=True)
+Epoch No	LR            	Loss          	Val_Loss      	DF            	PSNR      	SSIM      	Beta      
+       0	1.00000000e-03	4.78173169e-03	6.48633641e-04	9.99299347e-02	32.66154678	0.90960316	0.89935207
+Best Epoch:0 with PSNR: 32.6615
+       1	1.00000000e-03	4.78790897e-03	6.51050603e-04	9.98891011e-02	32.65085040	0.90953305	0.88326222
+       2	1.00000000e-03	4.78932891e-03	6.52348984e-04	9.98671010e-02	32.64577693	0.90949163	0.86635566
+       3	1.00000000e-03	4.78204093e-03	6.54041197e-04	9.98307034e-02	32.63846955	0.90940249	0.84836078
+       4	1.00000000e-03	4.78467355e-03	6.55633816e-04	9.98306334e-02	32.63234083	0.90934370	0.83092254
+       5	1.00000000e-03	4.78658550e-03	6.56280457e-04	9.97952119e-02	32.62919931	0.90929111	0.81567216
+       6	1.00000000e-03	4.78174149e-03	6.57247478e-04	9.97219741e-02	32.62503873	0.90925962	0.80199218
+       7	1.00000000e-03	4.78167688e-03	6.58106903e-04	9.97136623e-02	32.62090204	0.90919623	0.78674382
+       8	1.00000000e-03	4.78342003e-03	6.59292197e-04	9.96960238e-02	32.61440039	0.90910673	0.77267927
+       9	1.00000000e-03	4.78200574e-03	6.61000604e-04	9.48784992e-02	32.60207220	0.90899147	0.75931662
